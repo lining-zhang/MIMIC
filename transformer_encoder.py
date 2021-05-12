@@ -27,11 +27,11 @@ class PositionalEncoding(nn.Module):
         self.pos_encode[:, 0::2] = torch.sin(position / (10000 ** (_2i / dim)))  
         self.pos_encode[:, 1::2] = torch.cos(position / (10000 ** (_2i / dim)))
         # (max_len, 1) / (1, dim) --> (max_len, dim)
-        self.pos_encode.unsqueeze(0).transpose(0, 1)  # (max_len, 1, dim)
+        self.pos_encode = self.pos_encode.unsqueeze(0).transpose(0, 1)  # (max_len, 1, dim)
         
     def forward(self, x):
         seq_len = x.size(0)
-
+        
         # position matrix of (length, 1, dim) added for each batch
         output = x + self.pos_encode[:seq_len, :]  
         # (len, batch_size, dim) + (len, 1, dim) --> (len, batch_size, dim)
@@ -141,8 +141,8 @@ class MultiHeadAttention(nn.Module):
         k_ = k.view(batch_size * self.n_head, len_, self.dim_head)
         v_ = v.view(batch_size * self.n_head, len_, self.dim_head)
         # (batch_size, len, dim_head * n_head) --> (batch_size * n_head, len, dim_head)
-
-        v_weighted_sum, attention_weights = ScaleDotProductAttention(q_, k_, v_, attn_mask)
+        
+        v_weighted_sum, attention_weights = ScaleDotProductAttention()(q_, k_, v_, attn_mask)
         # v_weighted_sum: (batch_size * n_head, len, dim_head)
         # attention_weights: (batch_size * n_head, len, len)
 
@@ -196,7 +196,7 @@ class PositionWiseFeedForward(nn.Module):
     """
 
     def __init__(self, dim, hidden_dim, dropout_rate=0.1):
-        super(FeedForward, self).__init__()
+        super(PositionWiseFeedForward, self).__init__()
         self.linear_1 = nn.Linear(dim, hidden_dim)
         self.linear_2 = nn.Linear(hidden_dim, dim)
         self.relu = nn.ReLU()
@@ -274,7 +274,7 @@ class Encoder(nn.Module):
         dropout_prob (float): dropout applied to the output before "Add & Norm", default 0.1
         eps (float): epsilon to avoid zero in denominator, default 1e-6
     Output Shape:
-        output: (batch_size, len, vocab_size)
+        output: (batch_size, len, dim)
         attentions: (num_layers, batch_size, n_head, len, len)
     """
 
@@ -289,7 +289,10 @@ class Encoder(nn.Module):
                  drop_prob, 
                  eps):
         super(Encoder, self).__init__()
-        self.src_embedding = nn.Embedding(vocab_size, dim, pad_index)
+        self.pad_index = pad_index
+        self.n_head = n_head
+        
+        self.src_embedding = nn.Embedding(vocab_size, dim, self.pad_index)
         self.pos_embedding = PositionalEncoding(dim, max_len)
 
         self.encoder_layers = nn.ModuleList([EncoderLayer(dim, ffn_hidden, n_head, drop_prob, eps) 
@@ -300,13 +303,17 @@ class Encoder(nn.Module):
         output = self.pos_embedding(output.transpose(0, 1)).transpose(0, 1)
         # (batch_size, len, dim) --> (len, batch_size, dim) --> (batch_size, len, dim)
 
-        attn_mask = padding_mask(inputs, inputs, pad_index)  # (batch_size, len, len)
+        attn_mask = padding_mask(inputs, inputs, self.pad_index)  # (batch_size, len, len)
+        attn_mask = attn_mask.repeat(self.n_head, 1, 1) # (batch_size * n_head, len, len)
+        
         attentions = []
         for encoder in self.encoder_layers:
             output, attention = encoder(output, attn_mask)
             attentions.append(attention)
 
         return output, attentions
+
+
 
 
 
