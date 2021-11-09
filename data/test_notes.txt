@@ -1,2216 +1,2217 @@
-neurologically stable
-level of consciousness alert and interactive
-stable alert and oriented to person place and time
-eating normally
-activity status bedbound
-incisional pain managed with indomethacin
-mental status clear and coherent hard of hearing
-level of consciousness alert and interactive
-activity status ambulatory requires assistance or aid walker or cane
-mental status confused always
-ambulating gait steady
-mental status clear and coherent
-tolerating pos well
-activity status ambulatory requires assistance or aid walker or cane
-sternal healing well no erythema or drainage
-ambulating with assistance
-mental status clear and coherent
-neurologically stable
-level of consciousness lethargic but arousable
-level of consciousness lethargic but arousable
-level of consciousness alert and interactive
-sternal healing well no erythema or drainage
-mental status clear and coherent
-mental status clear and coherent
-mental status confused always
-mental status confused sometimes
-level of consciousness alert and interactive
-activity status ambulatory requires assistance or aid walker or cane
-mental status clear and coherent
-level of consciousness alert and interactive
-activity status ambulatory independent
-neurologically stable
-ambulating with steady gait
-activity status ambulatory independent
-level of consciousness alert and interactive
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Neurologically Stable
+Level of Consciousness: Alert and interactive.
+Stable, alert and oriented to person, place and time
+Eating normally
+Activity Status: Bedbound.
+Incisional pain managed with Indomethacin
+Mental Status: Clear and coherent ( Hard of hearing)
+Level of Consciousness:Alert and interactive
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Confused - always.
+Ambulating, gait steady
+Mental Status: Clear and coherent.
+Tolerating POs well
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Sternal - healing well, no erythema or drainage
+Ambulating with assistance
+Mental Status: Clear and coherent.
+Neurologically stable
+Level of Consciousness: Lethargic but arousable.
+Level of Consciousness: Lethargic but arousable.
+Level of Consciousness: Alert and interactive.
+Sternal - healing well, no erythema or drainage
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Mental Status: Confused - always.
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+NEUROLOGICALLY STABLE
+Ambulating with steady gait
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
 patient deceased
-patient passed away at 10 30 am attdg family and admitting aware
-level of consciousness lethargic but arousable
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-activity status bedbound
-good ambulatory sat off o2 92
-ambulating with steady gait
-activity status ambulatory independent
-activity status ambulatory independent
-alert and oriented x3 nonfocal
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status clear and coherent
-activity status ambulatory independent
-stable patient continues to be npo due to poor swallowing function
-mental status clear and coherent
-praxis agnosia able to brush teeth
-vital signs stable afebrile diarrhea improved
-activity status ambulatory independent
-mental status confused sometimes
-neuro exam agitation requires significant redirection
-level of consciousness alert and interactive
-mental status clear and coherent
-no ptosis on sustained upgaze
-level of consciousness alert and interactive
-ambulating gait steady
-good stable
-sternal wound healing well no drainage or erythema
-mental status clear and coherent
-mental status confused sometimes
-activity status ambulatory independent
-activity status ambulatory independent
-stable improved
-fair stable
-mental status clear and coherent
-ambulating stable
-level of consciousness alert and interactive
-stable renal failure improving
-mental status clear and coherent
-mental status clear and coherent
-mental status clear and coherent
-mental status clear and coherent
-mental status clear and coherent
-level of consciousness alert and interactive
-sternal healing well no erythema or drainage
-stable saturating well on room air
-patient will benefit from close follow up with macu
-good no pain afebrile tolerating low fat diet
-does not ambulate goal is to baseline walking with cane
-cooperative needs assistance of ambulations
-incision healing well no erythema or drainage
-mental status confused sometimes
-mental status clear and coherent
-mental status clear and coherent
-mental status clear and coherent
-ambulating with steady gait
-level of consciousness lethargic and not arousable
-afebrile x 3 days
-alert and oriented x3 nonfocal
-activity status ambulatory requires assistance or aid walker or cane
-mental status clear and coherent
-level of consciousness alert and interactive
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-incision with vac
-stable on 2 litres of oxygen which is same amount patient uses at home
-activity status out of bed with assistance to chair or wheelchair not ambulatory
-improved mental status clear urine fluid secretions
-blood pressures running 120 80
-ambulating with assistance
-activity status out of bed with assistance to chair or wheelchair
-alert and oriented x3 nonfocal
-activity status bedbound
-at baseline
-incisional pain managed with percocet
-activity status ambulatory independent
-activity status out of bed with assistance to chair or wheelchair
-activity status ambulatory requires assistance or aid walker or cane
-alert oriented ambulatory
-level of consciousness alert and interactive
-he is being treateed for a uti with ciprofloxacin 400 q12h
+Patient passed away at 10:30 AM- attdg, family and admitting aware
+Level of Consciousness: Lethargic but arousable.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Activity Status: Bedbound.
+Good - Ambulatory sat off O2>92%
+Ambulating with steady gait
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent.
+Alert and oriented x3 nonfocal
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Stable - Patient continues to be NPO due to poor swallowing function
+Mental Status: Clear and coherent.
+Praxis/ agnosia: Able to brush teeth
+Vital signs stable, afebrile, diarrhea improved.
+Activity Status: Ambulatory - Independent.
+Mental Status: Confused - sometimes.
+Neuro Exam: Agitation requires significant redirection.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+No ptosis on sustained upgaze
+Level of Consciousness: Alert and interactive.
+Ambulating, gait steady
+Good, stable
+Sternal wound: healing well, no drainage or erythema
+Mental Status: Clear and coherent.
+Mental Status: Confused - sometimes.
+Activity Status: Ambulatory - Independent.
+Activity Status:Ambulatory - Independent
+stable, improved.
+fair, stable
+Mental Status: Clear and coherent.
+Ambulating, stable
+Level of Consciousness: Alert and interactive.
+stable, renal failure improving
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Sternal - healing well, no erythema or drainage
+Stable, saturating well on room air
+Patient will benefit from close follow up with MACU.
+good: no pain, afebrile, tolerating low fat diet
+Does not ambulate; goal is to baseline walking with cane
+cooperative, needs assistance of ambulations.
+Incision - healing well, no erythema or drainage
+Mental Status: Confused - sometimes.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Ambulating with steady gait
+Level of Consciousness: Lethargic and not arousable
+Afebrile x >3 days
+Alert and oriented x3, nonfocal.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+Incision with VAC
+Stable, on 2 litres of oxygen which is same amount patient uses at home.
+Activity Status:Out of Bed with assistance to chair or wheelchair, not ambulatory
+Improved mental status, clear urine, fluid secretions.
+Blood pressures running ~120/80
+Ambulating with assistance
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Alert and oriented x3 nonfocal
+Activity Status: Bedbound.
+AT BASELINE
+Incisional pain managed with Percocet
+Activity Status: Ambulatory - Independent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane)
+Alert, oriented, ambulatory
+Level of Consciousness: Alert and interactive.
+He is being treateed for a UTI with ciprofloxacin 400 q12h
 neurologically stable
-otherwise bedbound expressive aphasia and trach d peg d
-mental status clear and coherent
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-stable without fever and no further bleeding
-level of consciousness alert and interactive
-comfort measures only
-agitated at times at night improved with zyprexa
-mental status clear and coherent
-mental status clear and coherent
-mental status clear and coherent
-level of consciousness alert and interactive
-activity status ambulatory independent
-mental status confused sometimes
-mental status clear and coherent
-mental status clear and coherent
-alert and oriented x 3
-able to ambulate without desaturating
-activity status ambulatory requires assistance or aid walker or cane
-mental status clear and coherent
-hematocrit stable
-mental status clear and coherent
-mental status clear and coherent
-by the time of discharge pt was awake alert and satting well on room air vital signs were stable and pt was deemed medically clear for discharge
-mental status clear and coherent
-good neurologically intact
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-abdomen soft nondistended
-pneumonia
+Otherwise, bedbound, expressive aphasia and trach'd/PEG'd.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Stable, without fever and no further bleeding.
+Level of Consciousness: Alert and interactive.
+Comfort Measures Only
+Agitated at times at night improved with Zyprexa.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Mental Status: Confused - sometimes.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Alert and oriented x 3
+Able to ambulate without desaturating.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Clear and coherent.
+Hematocrit stable.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+By the time of discharge, pt was awake, alert and satting well on room air, vital signs were stable and pt was deemed medically clear for discharge.
+Mental Status: Clear and coherent.
+Good, neurologically intact
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Abdomen soft, nondistended.
+Pneumonia .
 neurologically stable
-blood pressure controlled
-activity status out of bed with assistance to chair or wheelchair
-mental status clear and coherent
-stable on 2lnc baseline
-edema 1 bilaterally
-stable patient has only some mild weakness in the left hand with breakable finger extensors and interossei
-activity status ambulatory independent
-level of consciousness alert and interactive
-no further gi bleeding
-also continues with pain from spinal mets with some lethargy due to narcotic analgesics
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-activity status bedbound
-known aspiration risk but goals of care dictate modified diet as treatment
-alert and oriented x3 nonfocal
-edema none
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-stable ambulatory tolerating an oral diet afebrile
-alert and oriented x3 nonfocal
-hemodynamically stable hematocrit stable 29 2 afebrile
-incisional pain managed with
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-coordination action tremor l r on fnf
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-patient on comfort measures
-alert and oriented x3
-stable mental status at baseline bp stable electrolytes within normal limits
-afebrile blood pressure 136 to 158 70 to 84 pulse 54 to 84 respiratory rate 18 oxygen saturation 98 on room air
-stable normal heart rate and normal blood pressure
-activity status ambulatory independent
-bp hr stable no brbpr
-level of consciousness alert and interactive
-activity status ambulatory requires assistance or aid walker or cane
+Blood pressure controlled
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Clear and coherent.
+Stable, on 2LNC (baseline)
+Edema 1+ bilaterally
+Stable, patient has only some mild weakness in the left hand, with breakable finger extensors and interossei
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+No further GI bleeding.
+Also continues with pain from spinal mets with some lethargy due to narcotic analgesics.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+Known aspiration risk, but goals of care dictate modified diet as treatment.
+Alert and oriented x3 nonfocal
+Edema- none
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Stable, ambulatory, tolerating an oral diet, afebrile.
+Alert and oriented x3 nonfocal
+Hemodynamically stable, hematocrit stable (29.2), afebrile
+Incisional pain managed with
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Level of Consciousness: Alert and interactive.
+Coordination: action tremor, L> R on FNF.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Level of Consciousness: Alert and interactive
+patient on comfort measures.
+Alert and oriented x3
+Stable, mental status at baseline, BP stable, electrolytes within normal limits
+Afebrile, blood pressure 136 to 158/70 to 84, pulse 54 to 84, respiratory rate 18, oxygen saturation 98% on room air
+Stable, normal heart rate and normal blood pressure.
+Activity Status: Ambulatory - Independent.
+BP/HR stable, no BRBPR
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
 neurologically stable
-edema 2 bilat lower etremity
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-left tma with wet dry dressing changes daily
-level of consciousness alert and interactive
-ambulating well and pain controlled with percocet
-alert and oriented x3 nonfocal
-hemdyamically stable has sinus tachycardia with agaitation
-mental status clear and coherent
-ambulating gait steady
-good hemodynamically stable
-no signs of infection
-level of consciousness alert and interactive
-sternal healing well no erythema or drainage
-activity status ambulatory independent
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status clear and coherent
-neurologically stable
-ambulating with steady gait
-level of consciousness alert and interactive
-alert and oriented x3 nonfocal
-level of consciousness alert and interactive
-level of consciousness alert and interactive with eye movements only
-o2 saturation 96 100 on 2l at rest 91 95 with ambulation
-level of consciousness alert and interactive
-mental status clear and coherent
-mental status confused sometimes
-level of consciousness alert and interactive
-good on room air ambulating independently taking good po intake
-the patient has been steadily improving from a neurological perspective
-afebrile hemodynamically stable
-alert and oriented x3 nonfocal
-intermittently slightly confused
-in no respiratory distress
-mental status clear and coherent
-incisional pain managed with oral analgesia
-activity status ambulatory requires assistance or aid walker or cane
-mental status clear and coherent
-stable mental status intact independently ambulatory
-activity status ambulatory independent
-level of consciousness alert and interactive
-tolerating a regular diet with nectar thick liquids
-mental status clear and coherent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-ambulating with steady gait
-sternal healing well no erythema or drainage
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-activity status ambulatory independent
-sternal healing well no erythema or drainage
-mental status clear and coherent
-level of consciousness alert and interactive
-alert and oriented x3 nonfocal
-activity status ambulatory independent
-level of consciousness alert and interactive
-activity status ambulatory independent
-level of consciousness alert and interactive
-dilauded as needed
-mental status clear and coherent
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness alert and interactive
-needs 4 to 5 l oxygen at baseline need to titrate to pulse oxygen of 90 93
-level of consciousness alert and interactive
+Edema 2+ bilat lower etremity
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Left TMA with wet-> dry dressing changes daily
+Level of Consciousness:Alert and interactive
+ambulating well and pain controlled with Percocet,
+Alert and oriented x3 nonfocal
+Hemdyamically stable, has sinus tachycardia with agaitation,
+Mental Status:Clear and coherent
+Ambulating, gait steady
+Good, hemodynamically stable.
+No signs of infection.
+Level of Consciousness: Alert and interactive.
+Sternal - healing well, no erythema or drainage
+Activity Status: Ambulatory - Independent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Neurologically stable
+Ambulating with steady gait
+Level of Consciousness: Alert and interactive.
+Alert and oriented x3 nonfocal
+Level of Consciousness: Alert and interactive.
+Level of Consciousness:Alert and interactive (with eye movements only)
+O2 saturation: 96-100% on 2L at rest, 91-95% with ambulation.
+Level of Consciousness: Alert and interactive.
+Mental Status:Clear and coherent
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Good: On room air, ambulating independently, taking good PO intake
+The patient has been steadily improving from a neurological perspective
+afebrile, hemodynamically stable
+Alert and oriented x3, nonfocal
+Intermittently slightly confused
+In no respiratory distress
+Mental Status: Clear and coherent.
+Incisional pain managed with oral analgesia
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Clear and coherent.
+stable; mental status intact, independently ambulatory
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Tolerating a Regular diet with nectar thick liquids
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Ambulating with steady gait
+Sternal - healing well, no erythema or drainage
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Activity Status: Ambulatory - Independent.
+Sternal - healing well, no erythema or drainage
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Alert and oriented x3 nonfocal
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent
+Level of Consciousness: Alert and interactive.
+Dilauded as needed
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Needs 4 to 5 L oxygen at baseline, need to titrate to pulse oxygen of 90-93%.
+Level of Consciousness: Alert and interactive.
 stable and improved
-eom otherwise intact v facial sensation decreased to pinprick increased to cold temp in left v1 v2 v3 distributions vii left upper motor neuron facial viii hearing intact to voice ix x palate elevates symmetrically 5 5 strength in right trapezii xii tongue protrudes in midline
-activity status ambulatory independent
-level of consciousness alert and interactive
-neurologically stable
-activity status ambulatory independent
-mental status clear and coherent
-level of consciousness alert and interactive
-stable walking with walker
-level of consciousness alert and interactive
-mental status confused sometimes
-activity status ambulatory independent
-hemodynamically stable tolerating tube feeds ambulating pain controlled with an oral regimen
-mental status confused always
-activity status ambulatory independent
-activity status ambulatory independent
-mental status clear and coherent
-activity status ambulatory independent
-level of consciousness alert and interactive
-mental status confused always
-level of consciousness alert and interactive
+EOM otherwise intact. * V: Facial sensation decreased to pinprick, increased to cold temp in left V1, V2, V3 distributions. * VII: Left upper motor neuron facial. * VIII: Hearing intact to voice. * IX, X: Palate elevates symmetrically. * : 5/5 strength in right trapezii. * XII: Tongue protrudes in midline. .
+Activity Status:Ambulatory - Independent
+Level of Consciousness: Alert and interactive.
+Neurologically stable
+Activity Status:Ambulatory - Independent
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+stable, walking with walker
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - sometimes.
+Activity Status: Ambulatory - Independent.
+hemodynamically stable, tolerating tube feeds, ambulating, pain controlled with an oral regimen
+Mental Status: Confused - always.
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
 scant drainage distally
-mental status clear and coherent
-mental status clear and coherent
-level of consciousness alert and interactive
-asymptomatic tolerating po ambulating with assistance
-level of consciousness alert and interactive
-baseline left superior field cut left nasolabial fold flattening left hemiparesis left neglect
-activity status bedbound dependent for all adls
-ambulating with steady gait
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-activity as tolerated
-blood pressure stable off of pressors afebrile
-afebrile hemodynamically stable
-level of consciousness alert and interactive
-vital signs stable
-activity status out of bed with assistance to chair or wheelchair
-good pain control
-mental status clear and coherent
-edema none
-stable ambulatory afebrile
-ambulating gait steady
-mental status clear and coherent
-medically stable baseline mental status
-alert and oriented x3 nonfocal
-activity status ambulatory requires assistance or aid walker or cane
-mental status clear and coherent
-stable tolerating oral diet
-ambulates with assistance
-level of consciousness alert and interactive
-vital signs stable oriented to self and date
-level of consciousness lethargic but arousable
-sternal healing well no erythema or drainage
-level of consciousness alert and interactive
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-afebrile vital signs stable hematocrit stable 48 hours
-knows name and hospital
-mental status clear and coherent
-activity status out of bed with assistance to chair or wheelchair
-mental status clear and coherent
-alert and oriented x3 nonfocal
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-activity status ambulatory requires assistance or aid walker or cane
-activity status ambulatory with assistance as needed
-vital signs stable afebrile tolerating po ambulant pain controlled inr at therapeutic range between 2 5 3 5
-t max 97 5 pulse 72 sinus rhythm blood pressure 110 52 room air oxygen saturation 94
-mental status clear and coherent
-alert and oriented x3 nonfocal
-activity status ambulatory independent
-mental status confused sometimes
-activity status ambulatory independent
-alert and oriented hemodynamically stable satting well on room air
-alert breathing on room air
-no more major hemisensory deficits or extinction to dss seems to be back to baseline
-level of consciousness alert and interactive
-sternal healing well no erythema or drainage
-hemodynamically stable breathing comfortably on room air
-activity status ambulatory independent
-activity status bedbound
-incisional pain managed with percocet
-mental status clear and coherent cantonese speaking
-mental status confused always
-ambulating with steady gait
-back at baseline oxygen of 3 l n c
-hr 71 83
-leg right left healing well no erythema or drainage
-mental status clear and coherent
-mental status clear and coherent
-mental status clear and coherent
-activity status ambulatory independent
-mental status confused always
-hemodynamically stable
-activity status ambulatory independent
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-mental status clear and coherent
-incisional pain managed with ultram
-good patient weaned off oxygen hemodynamically stable
-ambulating with steady gait
-activity status ambulatory requires assistance or aid walker or cane
-mental status confused always
-requires assistance ambulating
-mental status clear and coherent
-edema 1 bilateral le
-stable tolerating po ambulating
-activity status ambulatory requires assistance or aid walker or cane
-flat affect
-mental status clear and coherent
-stable on discharge he remained aphasic not following comands but moving his l arm and leg spontaneously
-incisional pain managed with
-activity status out of bed with assistance to chair or wheelchair
-afebrile with stable vital signs
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-no sob
-she does track the light
-level of consciousness lethargic but arousable
-mental status clear and coherent
-afebrile vital signs stable o2 sats 97 on ra
-activity status ambulatory independent
-tolerating food
-improved condition at discharge
-mental status clear and coherent
-mental status clear and coherent
-activity status out of bed with assistance to chair or wheelchair
-hemodynamically stable afebrile ambulating
-mental status clear and coherent
-mental status confused sometimes
-activity status ambulatory independent
-mental status clear and coherent
-level of consciousness alert and interactive
-incisional pain managed with percocet
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-activity status ambulatory requires assistance or aid walker or cane
-discharged to home in stable condition
-good with decreased confusion no recent requirement for benzodiazepines or signs of alcohol withdrawal
-pt follows some commands
-activity status ambulatory independent
-good stable hematocrit stable
-level of consciousness lethargic but arousable
-mental status clear and coherent
-level of consciousness alert and interactive
-mental status clear and coherent
-mental status clear and coherent
-sensory appears grossly intact withdraws to stim at all 4 ext
-edema trace
-level of consciousness alert and interactive
-mental status alert and oriented
-mental status clear and coherent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-activity status ambulatory independent
-improved and stable on cardiac meds
-continues to have right sided hemiplegia and dysarthria
-pupils equal and reactive
-activity status ambulatory requires assistance or aid walker or cane
-mental status aaox3
-mental status clear and coherent
-stable tolerating po
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status alert oriented x 3 nad
-stable for transport for ongoing care
-activity status ambulatory requires assistance or aid walker or cane
-edema 1
-mental status confused always
-activity status ambulatory independent
-edema 3
-activity status ambulatory independent
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-not oriented to date
-activity status ambulatory independent
-able to count backward from 10 to 1
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-recovering from surgery but deconditioned requiring rehab
-alert and oriented x3 nonfocal
-sternal pain managed with oral analgesics
-level of consciousness alert and interactive
-patient is currently euvolemic without significant shortness of breath
-critical condition
-level of consciousness alert and interactive
-mental status confused sometimes
-mental status confused always
-afebrile vital signs stable
-activity status out of bed with assistance to chair or wheelchair
-activity status ambulatory independent
-pain well controlled with oral medications
-ambulating gait steady
-activity status ambulatory requires assistance or aid walker or cane
-right forearm with phlebitis will be d c on levaquin
-stable to home on baseline o2 requirement with services
-level of consciousness alert and interactive
-activity status ambulatory independent
-neurologically stable at present condition remains guarded
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness alert and interactive
-mental status confused sometimes
-level of consciousness alert and interactive
-alert and oriented x3 nonfocal
-neurologically stable at present
-activity status ambulatory independent
-vital signs stable taking po well ambulating without assistance
-mental status confused always
-ambulating gait steady
-level of consciousness alert and interactive
-thoracotomy healing well no erythema or drainage 2 lower extremity edema
-leg right left healing well no erythema or drainage
-level of consciousness alert and interactive
-stable baseline chronic pain
-activity status out of bed with assistance to chair or wheelchair
-afebrile vital signs stable ambulating well without need for oxygen
-his airway was patent and he had no dysphagia
-medically stable
-rolling walker afo s ramp at home
-level of consciousness lethargic but arousable
-activity status out of bed with assistance to chair or wheelchair
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Asymptomatic, tolerating po, ambulating with assistance.
+Level of Consciousness: Alert and interactive.
+Baseline left superior field cut, left nasolabial fold flattening, left hemiparesis, left neglect.
+Activity Status: Bedbound, dependent for all ADLs
+Ambulating with steady gait
+Activity Status: Out of Bed with assistance to chair or wheelchair
+Level of Consciousness: Alert and interactive.
+Activity as tolerated.
+Blood pressure stable, off of pressors, afebrile.
+afebrile, hemodynamically stable
+Level of Consciousness: Alert and interactive.
+Vital signs stable
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Good pain control
+Mental Status: Clear and coherent.
+Edema: none
+stable, ambulatory, afebrile
+Ambulating, gait steady
+Mental Status: Clear and coherent.
+medically stable, baseline mental status
+Alert and oriented x3 nonfocal
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Clear and coherent.
+Stable, tolerating oral diet.
+Ambulates with assistance
+Level of Consciousness: Alert and interactive.
+Vital signs stable, oriented to self and date.
+Level of Consciousness: Lethargic but arousable.
+Sternal - healing well, no erythema or drainage
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Level of Consciousness: Alert and interactive
+afebrile, vital signs stable, hematocrit stable > 48 hours
+Knows name and hospital
+Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Clear and coherent.
+Alert and oriented x3 nonfocal
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Activity Status: Ambulatory with assistance as needed.
+Vital signs stable, afebrile, tolerating po, ambulant, pain controlled, INR at therapeutic range between 2.5-3.5.
+T-max 97.5??????, pulse 72 sinus rhythm, blood pressure 110/52, room air oxygen saturation 94%
+Mental Status: Clear and coherent.
+Alert and oriented x3 nonfocal
+Activity Status: Ambulatory - Independent.
+Mental Status: Confused - sometimes
+Activity Status: Ambulatory - Independent.
+Alert and oriented, hemodynamically stable, satting well on room air.
+Alert, breathing on room air
+No more major hemisensory deficits or extinction to DSS (seems to be back to baseline)
+Level of Consciousness: Alert and interactive.
+Sternal - healing well, no erythema or drainage
+Hemodynamically stable, breathing comfortably on room air
+Activity Status: Ambulatory - Independent.
+Activity Status: Bedbound
+Incisional pain managed with Percocet
+Mental Status: Clear and coherent ( Cantonese speaking)
+Mental Status: Confused - always.
+Ambulating with steady gait.
+Back at baseline oxygen of 3 L n/c
+HR= 71-83
+Leg Right/Left - healing well, no erythema or drainage.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Mental Status: Confused - always.
+Hemodynamically stable
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Clear and coherent.
+Incisional pain managed with Ultram
+Good- patient weaned off oxygen, hemodynamically stable
+Ambulating with steady gait
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Confused - always.
+Requires assistance ambulating
+Mental Status: Clear and coherent.
+Edema +1 bilateral LE
+stable, tolerating po, ambulating
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Flat affect
+Mental Status: Clear and coherent
+Stable: on discharge he remained aphasic, not following comands but moving his L arm and leg spontaneously
+Incisional pain managed with
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+afebrile with stable vital signs.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+No SOB
+She does track the light
+Level of Consciousness: Lethargic but arousable.
+Mental Status: Clear and coherent.
+Afebrile, vital signs stable, O2 sats 97% on RA
+Activity Status: Ambulatory - Independent.
+Tolerating food
+Improved condition at discharge.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+hemodynamically stable, afebrile, ambulating
+Mental Status: Clear and coherent.
+Mental Status: Confused - sometimes.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Incisional pain managed with percocet
+Activity Status: Ambulatory - requires assistance or aid (walker or cane)
+Level of Consciousness: Alert and interactive
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Discharged to home in stable condition.
+Good, with decreased confusion, no recent requirement for benzodiazepines or signs of alcohol withdrawal
+Pt follows some commands
+Activity Status: Ambulatory - Independent.
+good, stable, hematocrit stable
+Level of Consciousness: Lethargic but arousable
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Sensory: appears grossly intact, withdraws to stim at all 4 ext
+Edema trace
+Level of Consciousness: Alert and interactive.
+Mental status: Alert and oriented
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Improved and stable on cardiac meds
+Continues to have right sided hemiplegia and dysarthria.
+Pupils equal and reactive.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: AAOx3
+Mental Status: Clear and coherent.
+stable, tolerating PO
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Mental status: Alert/Oriented x 3, NAD
+stable for transport for ongoing care.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Edema 1+
+Mental Status: Confused - always.
+Activity Status: Ambulatory - Independent.
+Edema -3+
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Not oriented to date
+Activity Status: Ambulatory - Independent.
+Able to count backward from 10 to 1
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+recovering from surgery but deconditioned requiring rehab.
+Alert and oriented x3 nonfocal
+Sternal pain managed with oral analgesics
+Level of Consciousness:Alert and interactive
+Patient is currently euvolemic without significant shortness of breath
+Critical Condition
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - sometimes.
+Mental Status: Confused - always.
+Afebrile, vital signs stable
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Activity Status: Ambulatory - Independent.
+Pain well controlled with oral medications.
+Ambulating, gait steady
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Right forearm with phlebitis- will be d/c on Levaquin
+stable to home on baseline O2 requirement with services
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+neurologically stable at present / condition remains guarded
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Alert and oriented x3 nonfocal
+Neurologically stable at present
+Activity Status: Ambulatory - Independent.
+vital signs stable, taking PO well, ambulating without assistance.
+Mental Status: Confused - always.
+Ambulating, gait steady
+Level of Consciousness: Alert and interactive.
+Thoracotomy - healing well, no erythema or drainage 2+ lower extremity edema
+Leg Right/Left - healing well, no erythema or drainage.
+Level of Consciousness: Alert and interactive.
+Stable baseline chronic pain.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Afebrile, vital signs stable, ambulating well without need for oxygen.
+His airway was patent and he had no dysphagia
+Medically Stable.
+Rolling walker, AFO's, ramp at home
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
 deconditioned and frail
-incisional pain managed with
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-afebrile stable
-mental status clear and coherent
-l nasal cannula
-sternal healing well no erythema or drainage
-activity status out of bed with assistance to chair or wheelchair
-heent trachmask with trach collar in place when patient is able to move his neck and tell team whether or not he is in pain collar may be be discontinued
-mental status clear and coherent
-mental status clear and coherent
-aao x 3
-activity status ambulatory independent
-stable still with right hemiparesis and some abulia in addition to acute grief reaction
-insight and judgment n a
-bilateral ileopsoas weakness 4 5
-level of consciousness alert and interactive
-activity status ambulatory requires assistance or aid walker or cane
-activity status ambulatory requires assistance or aid walker or cane
-pt died on
-these episodes are without new ecg changes although ecg demonstrates persistent slowly resolving posterior and lateral st segment elevations
-mental status clear and coherent
-patient expired shortly
-sats low 90s on ra 97 when ambulating intermittent cough eating mentating ambulating well
-good afebrile hemodynamically stable
-activity status ambulatory requires assistance or aid walker or cane
-mental status clear and coherent
-incision sternum healing well no erythema or drainage
-pt breathing comfortably on room air
-activity status out of bed with assistance to chair or wheelchair
-in good condition
-level of consciousness alert and interactive
-subtle right hemiparesis if any at all
-good condition vital signs stable on 2l o2 discharged to home
-mental status clear and coherent
-the patient is ready for discharge on in good condition
-requiring significant nursing care
-alert and oriented x3 nonfocal
-sternal incision healing well no erythema or drainage
-slight left facial droop
-mental status clear and coherent
-alert and oriented x3 nonfocal
-alert and oriented x3 nonfocal exam
-level of consciousness alert and interactive
-activity status ambulatory independent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-activity status bedbound
-activity status ambulatory independent
-alert and oriented x3 nonfocal expressive aphasia right facial droop
-mental status clear and coherent
-good ambulatory confusion resolved creatinine improved
-good stable
-activity status ambulatory independent
-mental status clear and coherent
-mental status clear and coherent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-hemodynamically stable
-activity status ambulatory requires assistance or aid walker or cane
-activity status ambulatory independent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-activity status ambulatory independent
-activity status ambulatory requires assistance or aid walker or cane
-on 3l o2 sat ing 96
-level of consciousness alert and interactive
-o2 sats 98 ra
-mental status clear and coherent
-level of consciousness alert and interactive
-leg right left healing well no erythema or drainage
-mental status clear and coherent
-level of consciousness alert and interactive
-sternal incision healing well no erythema or drainage
-activity status ambulatory independent
-sternal incision healing well no erythema or drainage
-level of consciousness alert and interactive
+Incisional pain managed with
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Afebrile, stable.
+Mental Status: Clear and coherent.
+L nasal cannula.
+Sternal - healing well, no erythema or drainage
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+HEENT: trachmask with trach collar in place: when patient is able to move his neck and tell team whether or not he is in pain, collar may be be discontinued.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent
+AAO x 3
+Activity Status: Ambulatory - Independent.
+Stable, still with right hemiparesis and some abulia in addition to acute grief reaction.
+Insight and judgment n/a.
+Bilateral ileopsoas weakness, 4+/5.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Pt died on
+These episodes are without new ECG changes, although ECG demonstrates persistent, slowly resolving posterior and lateral ST segment elevations
+Mental Status: Clear and coherent.
+Patient expired shortly
+Sats low 90s on RA (97% when ambulating), intermittent cough, eating, mentating, ambulating well
+Good, afebrile, hemodynamically stable
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Clear and coherent.
+Incision: Sternum-healing well no erythema or drainage
+Pt breathing comfortably on room air.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+In good condition
+Level of Consciousness: Alert and interactive.
+Subtle right hemiparesis if any at all
+Good condition, vital signs stable on 2L O2, discharged to home.
+Mental Status: Clear and coherent.
+The patient is ready for discharge on in good condition.
+Requiring significant nursing care.
+Alert and oriented x3 nonfocal
+Sternal Incision - healing well, no erythema or drainage
+Slight left facial droop
+Mental Status: Clear and coherent.
+Alert and oriented x3 nonfocal
+Alert and oriented x3, nonfocal exam
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+Activity Status: Ambulatory - Independent.
+Alert and oriented x3 nonfocal, expressive aphasia, right facial droop
+Mental Status: Clear and coherent.
+Good, ambulatory, confusion resolved, creatinine improved
+Good, stable.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Hemodynamically stable
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Activity Status: Ambulatory - Independent
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Activity Status:Ambulatory - Independent
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+On 3L O2, sat'ing 96%.
+Level of Consciousness:Alert and interactive
+O2 sats 98% RA.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Leg Right/Left - healing well, no erythema or drainage.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Sternal Incision - healing well, no erythema or drainage
+Activity Status: Ambulatory - Independent.
+Sternal Incision - healing well, no erythema or drainage
+Level of Consciousness: Alert and interactive.
 oxygenation normally on room air
-ambulating with steady gait
-activity status ambulatory requires assistance or aid walker cane or crutches
-no lifting greater than 10 pounds
-mental status clear and coherent
-level of consciousness lethargic but arousable
-leg left healing well no erythema or drainage
-alert and oriented x3 nonfocal
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status clear and coherent
-primary diagnosis 1
-level of consciousness alert and interactive
-incisional pain managed with
-activity status out of bed with assistance to chair or wheelchair
+Ambulating with steady gait
+Activity Status: Ambulatory - requires assistance or aid (walker, cane, or crutches).
+No lifting greater than 10 pounds.
+Mental Status: Clear and coherent.
+Level of Consciousness: Lethargic but arousable.
+Leg Left - healing well, no erythema or drainage
+Alert and oriented x3 nonfocal
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Primary diagnosis: 1
+Level of Consciousness: Alert and interactive.
+Incisional pain managed with
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Neurologically stable
+Alert and oriented x3 nonfocal
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Right is decreased in size from previous study and there is no change in the size of the left effusion.
+Tolerating a regular diet
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+Ambulating, gait steady
+Patient is getting tube feeds at 60ml/hr via NGT with gradual slow addition of honey thick liquids and pureed foods.
+Patient expired.
+Activity Status: Ambulatory - Independent.
+Tolerating a regular diet
+The infant is discharged in good condition.
+Ambulating without assistance
+Alert and oriented x3 nonfocal
+Breathing comfortably on room air.
 neurologically stable
-alert and oriented x3 nonfocal
-activity status ambulatory independent
-level of consciousness alert and interactive
-right is decreased in size from previous study and there is no change in the size of the left effusion
-tolerating a regular diet
-activity status ambulatory requires assistance or aid walker or cane
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-ambulating gait steady
-patient is getting tube feeds at 60ml hr via ngt with gradual slow addition of honey thick liquids and pureed foods
-patient expired
-activity status ambulatory independent
-tolerating a regular diet
-the infant is discharged in good condition
-ambulating without assistance
-alert and oriented x3 nonfocal
-breathing comfortably on room air
-neurologically stable
-activity status out of bed with assistance to chair or wheelchair
-mental status clear and coherent
-good ambulating good po intake
-patient is discharged in stable condition
-activity status ambulatory requires assistance or aid walker or cane
-alert and oriented x3 nonfocal
-level of consciousness alert and interactive
-hd stable and afebrile
-alert and oriented x2
-the patient was hemodynamically stable afebrile and without pain at the time of admission
-activity status ambulatory independent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status clear and coherent
-deconditioned max assist
-bp 122 69
-level of consciousness alert and interactive
-activity status ambulatory independent
-activity status ambulatory requires assistance or aid walker or cane
-activity status ambulatory independent
-ambulating with assistance
-edema trace
-mental status confused sometimes
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-mental status clear and coherent
-activity status out of bed with assistance to chair or wheelchair advancing to ambulatory with assistance as tolerated from respiratory standpoint
-level of consciousness alert and interactive
-alert and oriented x3 nonfocal
-mental status clear and coherent
-mental status clear and coherent
-improved ankle in cast blood pressure better controlled on po meds
-activity status ambulatory independent
-incisional pain managed with ultram and tylenol
-unable to name months of the year backwards motor normal bulk tone throughout
-alert awake interactive
-stable afebrile ambulating good po intake
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-mental status confused sometimes
-mental status confused always
-at the time of discharge he is cardiovascularly stable and breathing comfortably on room air
-creat 1 2
-still with residual parietal lobe infarction signs with difficulty attending to the right side of the world dyscalculia difficulty and writing right left confusion and finger agnosia
-patient is stable at time of discharge
-stable afebrile tolerating a diet with adequate pain control on an oral pain medication regimen
-mental status clear and coherent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-patient is able to ambulate partial weight bearing with
-level of consciousness alert and interactive
-poor dead
-activity status bedbound
-ambulating with steady gait
-level of consciousness alert and interactive
-activity status ambulatory independent
-requires 3 liters o2 by nasal cannula
-mental status clear and coherent
-alert and oriented x3 nonfocal
-activity status ambulatory requires assistance or aid walker or cane
-tolerating regular diet stable hct no abdominal pain
-activity status ambulatory requires assistance or aid walker or cane utilized walker for balance
-good vitals stable
-hemodynamically stable
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-neurologically stable
-level of consciousness alert and interactive able to mouth words
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-he remembers the name of his doctors and previous medical treatments but does not know medications or doses from memory
-mental status clear and coherent
-stable afebrile ambulatory
-alert and oriented x3 nonfocal
-activity status ambulatory independent
-activity status ambulatory independent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-stable on home oxygen of 4 lpm nasal canula
-mental status clear and coherent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness alert and interactive
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-activity status ambulatory requires assistance or aid walker or cane
-strength full in all extremities no pronator drift
-neurologically stable
-level of consciousness alert and interactive
-hct has dropped slightly to 25 but egd injected and clipped bleeding from ulcer site
-mental status clear and coherent
-leg right left healing well no erythema or drainage
-mental status clear and coherent
-activity status out of bed with assistance to chair or wheelchair
-activity status ambulatory independent
-discharge condition is good afebrile tolerated regular diet
-mental status clear and coherent
-activity status ambulatory independent
-ambulating independently
-ambulating w o difficulty
-afebrile stable
-tolerating solid food
-mental status clear and coherent
-follows midline and appendicular commands
-alert and oriented tolerating regular diet making good urine electrolytes stable no seizures since early admision working with physical therapy
-motor and sensation exam intact
-activity status ambulatory independent
-level of consciousness alert and interactive
-activity status ambulatory independent
-ambulating with steady gait
-mental status clear and coherent
-the patient was discharged to home in stable condition
-level of consciousness lethargic but arousable
-low grade fever 100 0 without source of infection upon workup with other
-ambulating gait steady
-mental status clear and coherent
-mental status clear and coherent
-strength full
-mental status clear and coherent
-activity status ambulatory independent
-level of consciousness alert and interactive
-alert and oriented x3 nonfocal
-activity status ambulatory requires assistance or aid walker or cane
-mental status confused sometimes
-alert and oriented to person time and place
-fair afebrile stable on room air poor po intake
-ambulating with steady gait
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status confused always
-mental status clear and coherent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-neurologically stable
-mental status clear and coherent
-g tube feeding
-the infant is being discharged in good condition to special care nursery for continuing care
-ambulating with assistance
-edema none
-activity status ambulating with assistance
-mental status clear and coherent
-level of consciousness alert and interactive
-sternal healing well no erythema or drainage
-mental status clear and coherent
-epiglottis is erythematous with minimal swelling of pharynx
-activity status out of bed with assistance to chair or wheelchair
-mental status confused sometimes
-level of consciousness alert and interactive
-activity status ambulatory independent
-improving able to walk with walker
-mental status confused sometimes
-activity status out of bed with assistance to chair or wheelchair
-left toe up right toe down
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-incisional pain managed with percocet prn
-fair condition neuro exam is notable for a left facial droop left hemiplegia extinction to double simultaneous stimuli on the left
-mental status clear and coherent
-level of consciousness alert and interactive
-breathing comfortably on 3l nc
-mental status clear and coherent
-mental status clear and coherent
-alert and oriented x3 nonfocal
-alert and oriented x3 nonfocal
-activity status ambulatory requires assistance
-edema none
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness alert and interactive
-not applicable
-stable medically medically cleared for inpatient psych
-oob to chair as tolerated
-activity status ambulatory independent
-motor and sensory exam with deficit
-level of consciousness alert and interactive
-activity status ambulatory requires assistance or aid walker or cane
-the patient has residual right facial droop right wrist extensor weakness and right finger extensor weakness
-activity status ambulatory independent
-activity status ambulatory independent
-activity status ambulatory independent
-hemodynamically stable
-activity status ambulatory requires assistance or aid walker or cane
-alert and oriented x3 nonfocal
-ambulating with steady gait
-mental status clear and coherent
-stable on 2l o2
-mental status clear and coherent
-on discharge he is in good condition
-leg left healing well no erythema or drainage
-pain well controlled with oral medications
-activity status ambulatory independent
-level of consciousness alert and interactive
-slight serosanguinous drainage from former chest tube site but is without erythema
-improved minimal residual weakness ambulating swallowing back to baseline
-good off of all o2 with o2 sat 95 ambulating of room air
-level of consciousness lethargic but arousable
-activity status ambulatory requires some assistance
-mental status clear and coherent
-good hemodynamically stable and afebrile
-patient has substernal chest pain intermittently responsive to sublingual nitroglycerine
-level of consciousness alert and interactive
-mental status good
-good improved
-vital signs stable
-leg left healing well no erythema or drainage ecchymosis thigh
-activity status ambulatory requires assistance or aid walker or cane
-patient is extubated and now with tracheostomy and receiving nutrition via peg tube
-level of consciousness alert and interactive
-ambulates with assistance
-level of consciousness alert and interactive
-mental status clear and coherent
-pt afebrile ambulating w o assistance
-leg right left healing well no erythema or drainage
-level of consciousness alert and interactive
-mental status clear and coherent
-right medial calf incision from embolectomy leave open to air
-patient is in good condition afebrile no chest pain shortness of breath blood pressure within normatensive range o2 sat in the upper 90
-activity status ambulatory independent
-stable at baseline afebrile
-  good
-level of consciousness alert and interactive
-hemodynamically stable
-alert and oriented x3 nonfocal
-activity status bedbound
-alert and oriented x3 nonfocal
-hemodynamically stable breathing comfortably on room air with
-decreased blink to right eye threat
-mental status clear and coherent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-sternal pain managed with oral analgesics
-activity status ambulatory independent
-mental status clear and coherent
-stable afebrile tolerating diet
-activity status ambulatory independent
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Clear and coherent.
+good, ambulating, good po intake
+Patient is discharged in stable condition.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Alert and oriented x3 nonfocal
+Level of Consciousness: Alert and interactive.
+HD stable and afebrile.
+Alert and oriented x2
+The patient was hemodynamically stable, afebrile and without pain at the time of admission.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Deconditioned/ Max Assist
+BP= 122/69
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Activity Status: Ambulatory - Independent.
+Ambulating with assistance
+Edema trace
+Mental Status: Confused - sometimes.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair advancing to Ambulatory with assistance as tolerated from respiratory standpoint.
+Level of Consciousness: Alert and interactive.
+Alert and oriented x3 nonfocal
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+improved - ankle in cast, blood pressure better controlled on PO meds
+Activity Status: Ambulatory - Independent.
+Incisional pain managed with Ultram and Tylenol
+Unable to name months of the year backwards. -Motor: Normal bulk, tone throughout
+Alert, awake, interactive.
+Stable, afebrile, ambulating, good PO intake.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - sometimes.
+Mental Status: Confused - always.
+At the time of discharge he is cardiovascularly stable and breathing comfortably on room air
+Creat 1.2
+Still with residual parietal lobe infarction signs with difficulty attending to the right side of the world, dyscalculia, difficulty and writing, right left confusion, and finger agnosia.
+Patient is stable at time of discharge.
+Stable, afebrile, tolerating a diet with adequate pain control on an oral pain medication regimen
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Patient is able to ambulate (partial weight bearing) with
+Level of Consciousness: Alert and interactive
+Poor- dead
+Activity Status: Bedbound.
+Ambulating with steady gait.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Requires 3 liters O2 by nasal cannula.
+Mental Status: Clear and coherent.
+Alert and oriented x3 nonfocal
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+tolerating regular diet, stable HCT, no abdominal pain.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane)( utilized walker for balance)
+Good, vitals stable
+Hemodynamically stable
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Neurologically stable
+Level of Consciousness: Alert and interactive; able to mouth words.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+He remembers the name of his doctors and previous medical treatments but does not know medications or doses from memory.
+Mental Status: Clear and coherent.
+stable, afebrile, ambulatory
+Alert and oriented x3 nonfocal
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive
+Level of Consciousness: Alert and interactive.
+stable, on home oxygen of 4 Lpm nasal canula
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Strength full in all extremities, no pronator drift.
+NEUROLOGICALLY STABLE
+Level of Consciousness: Alert and interactive.
+HCT has dropped slightly to 25 but EGD injected and clipped bleeding from ulcer site
+Mental Status: Clear and coherent.
+Leg Right/Left - healing well, no erythema or drainage.
+Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Activity Status: Ambulatory - Independent.
+Discharge condition is good, afebrile, tolerated regular diet
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Ambulating independently.
+Ambulating w/o difficulty.
+Afebrile, Stable
+Tolerating solid food.
+Mental Status: Clear and coherent.
+Follows midline and appendicular commands
+alert and oriented, tolerating regular diet, making good urine, electrolytes stable, no seizures since early admision, working with physical therapy.
+Motor and sensation exam intact.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Ambulating with steady gait
+Mental Status: Clear and coherent.
+The patient was discharged to home in stable condition.
+Level of Consciousness: Lethargic but arousable
+Low-grade fever (100.0) without source of infection upon workup with other
+Ambulating, gait steady
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Strength full
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Alert and oriented x3 nonfocal
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Confused - sometimes.
+Alert and oriented to person, time and place
+fair: afebrile, stable on room air, poor po intake
+Ambulating with steady gait
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - always.
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Neurologically Stable
+Mental Status: Clear and coherent.
+G-tube feeding
+The infant is being discharged in good condition to Special Care Nursery for continuing care
+Ambulating with assistance
+Edema none
+Activity Status: Ambulating with assistance
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive
+Sternal - healing well, no erythema or drainage
+Mental Status: Clear and coherent.
+Epiglottis is erythematous with minimal swelling of pharynx.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Improving; able to walk with walker
+Mental Status: Confused - sometimes.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Left toe up, right toe down
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+Incisional pain managed with Percocet prn
+Fair condition; neuro exam is notable for a left facial droop, left hemiplegia, extinction to double simultaneous stimuli on the left.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Breathing comfortably on 3L NC.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Alert and oriented x3 nonfocal
+Alert and oriented x3 nonfocal
+Activity Status: Ambulatory - requires assistance
+Edema none
+Level of Consciousness:Alert and interactive
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Not applicable.
+STABLE MEDICALLY, MEDICALLY CLEARED FOR INPATIENT PSYCH.
+OOB to chair as tolerated.
+Activity Status: Ambulatory - Independent.
+Motor and sensory exam with deficit
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+The patient has residual right facial droop, right wrist extensor weakness, and right finger extensor weakness.
+Activity Status: Ambulatory - Independent
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent.
+Hemodynamically stable
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Alert and oriented x3, nonfocal
+Ambulating with steady gait
+Mental Status: Clear and coherent.
+stable, on 2L O2
+Mental Status: Clear and coherent.
+On discharge he is in good condition.
+Leg-Left -healing well, no erythema or drainage.
+Pain well controlled with oral medications.
+Activity Status: Ambulatory - Independent
+Level of Consciousness: Alert and interactive.
+slight serosanguinous drainage from former chest tube site, but is without erythema
+Improved, minimal residual weakness, ambulating, swallowing, back to baseline.
+Good- off of all O2 with O2 Sat 95% ambulating of room air
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Ambulatory - requires some assistance.
+Mental Status: Clear and coherent.
+Good, hemodynamically stable and afebrile.
+Patient has substernal chest pain intermittently, responsive to sublingual nitroglycerine.
+Level of Consciousness: Alert and interactive.
+Mental status: good
+Good; improved
+Vital Signs Stable
+Leg Left - healing well, no erythema or drainage, ecchymosis thigh
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Patient is extubated and now with tracheostomy and receiving nutrition via PEG tube.
+Level of Consciousness: Alert and interactive.
+Ambulates with assistance
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Pt afebrile, ambulating w/o assistance.
+Leg Right/Left - healing well, no erythema or drainage.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Right medial calf - incision from embolectomy - leave open to air
+Patient is in good condition, afebrile, no chest pain, shortness of breath, Blood pressure within normatensive range, O2 sat in the upper 90%.
+Activity Status: Ambulatory - Independent
+Stable, at baseline, afebrile.
+- good
+Level of Consciousness:Alert and interactive
+Hemodynamically stable
+Alert and oriented x3 nonfocal
+Activity Status: Bedbound.
+Alert and oriented x3 nonfocal
+Hemodynamically stable, breathing comfortably on room air with
+Decreased blink to right eye threat
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Sternal pain managed with oral analgesics
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+stable, afebrile, tolerating diet
+Activity Status: Ambulatory - Independent.
 awake alert
-level of consciousness alert and interactive
-cooperative with plan of care
-incisions sternal healing well no erythema or drainage
-activity status ambulatory requires assistance or aid walker or cane
-neurologically stable
-mental status clear and coherent
-level of consciousness alert and interactive
-sternal healing well no erythema or drainage
+Level of Consciousness: Alert and interactive.
+Cooperative with plan of care
+Incisions: Sternal - healing well, no erythema or drainage
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Neurologically stable
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Sternal - healing well, no erythema or drainage
 as previously noted
-hemodynamically stable
-vitals signs stable
-level of consciousness alert and interactive
-edema 1 edema bilateral les
+Hemodynamically stable
+Vitals signs stable
+Level of Consciousness: Alert and interactive.
+Edema: 1+ edema bilateral LEs
 neurologically stable
-activity status out of bed with assistance to chair or wheelchair
-stable afebrile
-vital signs stable afebrile a o x 3 sao2 100 on trach mask fio2 35
-activity status ambulatory independent
-lungs breath sounds are coarse with scattered wheezes and rhonchi throughout
-clinicall stable moderately alert pain controlled patient and family aware of diagnosis on comfort measures and ivf only
-good afebrile ambulatory off of o2 neurologically stable taking po
-upon discharge she was comfortable ambulating independently tolerating a regular diet voiding small amounts of urine
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness alert and interactive
-activity status ambulatory independent
-activity status out of bed with assistance to chair or wheelchair
-mental status clear and coherent
-activity status out of bed with assistance to chair or wheelchair
-mental status clear and coherent
-no inflammation
-hemodynamically stable with a heart rate in the 70s
-psychiatry has cleared the patient for discharge
-alert and oriented x3 nonfocal
-level of consciousness alert and interactive
-mental status clear and coherent
-vital signs stable
-mental status confused always
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness lethargic arousable can follow simple commands
-mental status clear and coherent
-no chest pain shortness of breath or lightheadedness
-activity status ambulatory independent
-bilateral lower extremity saphenectomy sites steri strips are intact without erythema or drainage
-mental status confused sometimes
-level of consciousness awake and alert tracks and swallows applesauce purees but does not speak or follow commands
-level of consciousness alert and interactive
-patient discharged home in stable condition with stable saturation on room air
-hemodynamically stable tolerating po diet minimal diarrhea abdominal pain
-mental status clear and coherent
-alert and oriented x3 nonfocal
-sternal healing well no erythema or drainage
-mental status clear and coherent
-mental status clear and coherent
-breathing comforably
-level of consciousness alert and interactive
-mental status clear and coherent
-patient ambulating symptoms improved
-mental status clear and coherent
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-alert and oriented x3 nonfocal
-mental status clear and coherent
-level of consciousness alert and interactive
-stable chest pain free
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness and interactive
-face jaw and hand spasms resulting from an adverse reaction to compazine have resolved
-sternal healing well no erythema or drainage
-level of consciousness alert and interactive
-hct stable
-mental status clear and coherent
-activity status ambulatory independent
-sternal incision healing well no erythema or drainage leg edema
-the patient is stable
-activity status ambulatory independent
-mental status confused sometimes
-level of consciousness alert and interactive
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Stable, afebrile.
+Vital signs stable, afebrile, A&O x 3, SaO2 100% on trach mask (FiO2 35%)
+Activity Status: Ambulatory - Independent.
+Lungs - breath sounds are coarse with scattered wheezes and rhonchi throughout
+clinicall stable, moderately alert, pain controlled, patient and family aware of diagnosis, on comfort measures and IVF only
+Good: afebrile, ambulatory off of O2, Neurologically stable, taking PO
+Upon discharge, she was comfortable, ambulating independently, tolerating a regular diet, voiding small amounts of urine
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - Independent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Clear and coherent.
+No inflammation
+Hemodynamically stable with a heart rate in the 70s.
+Psychiatry has cleared the patient for discharge.
+Alert and oriented x3 nonfocal
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Vital signs stable.
+Mental Status: Confused - always.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: lethargic, arousable can follow simple commands
+Mental Status: Clear and coherent.
+No Chest pain, shortness of breath or lightheadedness
+Activity Status: Ambulatory - Independent.
+Bilateral lower extremity saphenectomy sites Steri Strips are intact without erythema or drainage.
+Mental Status: Confused - sometimes.
+Level of Consciousness: Awake and alert -- tracks and swallows applesauce/purees, but does not speak or follow commands.
+Level of Consciousness: Alert and interactive.
+Patient discharged home in stable condition, with stable saturation on room air.
+Hemodynamically stable, tolerating PO diet, minimal diarrhea/abdominal pain.
+Mental Status: Clear and coherent.
+Alert and oriented x3, nonfocal
+Sternal - healing well, no erythema or drainage
+Mental Status:Clear and coherent
+Mental Status: Clear and coherent.
+Breathing comforably
+Level of Consciousness: Alert and interactive
+Mental Status: Clear and coherent.
+Patient ambulating, symptoms improved.
+Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+Alert and oriented x3 nonfocal
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+stable, chest pain free
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Level of Consciousness: and interactive.
+Face, jaw, and hand spasms, resulting from an adverse reaction to compazine, have resolved
+Sternal - healing well, no erythema or drainage
+Level of Consciousness: Alert and interactive.
+Hct stable.
+Mental Status: Clear and coherent
+Activity Status: Ambulatory - Independent.
+Sternal Incision - healing well, no erythema or drainage leg.......... edema..............
+The patient is stable.
+Activity Status: Ambulatory - Independent.
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Neurologically Stable
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status:Out of Bed with assistance to chair or wheelchair
+stable, hct 29
+Activity Status: Ambulatory - Independent.
+good, stable.
+Mental Status: Confused - always.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+was afebrile.
+Vital signs stable
+Hemodynamically stable.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Hemodynamically stable.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Ambulating, gait steady
+Ambulating with steady gait
+Sensation intact but with variable extinction to DSS on the left
+Vital signs stable
+Alert and oriented x3 nonfocal
+Level of Consciousness: Alert and interactive.
+Awake, alert, trached.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+His plan was to follow up with Dr. in four to six weeks
+Tolerating POs
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Mild confusion at times.
+Level of Consciousness: Lethargic but arousable.
+Please hold coumadin dose on evening of and recheck pt/inr daily. Readdress and reinitiate coumadin start on .
+Afebrile, vital signs stable.
+Therapy and was felt to be walking well on his own and will be continued to be followed as an outpatient with home PT as well as visiting nursing for dressing changes and medications
+Hematocrit stable
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Tolerating tube feeds.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Ambulating, gait steady
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Stable on 1L oxygen.
+Leg Right/Left - healing well, no erythema or drainage.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Mental Status: Confused - sometimes.
+Activity Status: Ambulatory as tolerated- requires assistance.
+At time of discharge the patient was clinically doing well with stable vital signs and her oxygen requirements had returned to her usual baseline on 2.5L oxygen via nasal cannula which was her pre-admission home oxygen requirement
+The patient is to be discharged to home in stable condition.
+vital signs stable, afebrile,
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+hemodynamically stable, requiring mechanical ventilation, following commands.
+Stable, ambulatory, and O2 saturation stable on room air.
+Mental Status: Confused - sometimes.
+Left sided weakness, lower extremity greater than upper extremity
+Level of Consciousness: Alert and interactive.
+of Pediatrics in .
+Level of Consciousness: Alert and interactive.
+Good, O2 saturation 95% on 2L O2 at rest
+Leg Right/Left - healing well, no erythema or drainage
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Activity Status:Bedbound
+Alert and oriented x3 nonfocal
+Mental Status:Clear and coherent
+Ambulating, gait steady
+Level of Consciousness: Lethargic but arousable.
+Stable, on 3L O2
+Pt deceased
+Ambulating with steady gait
+Level of Consciousness: Lethargic but arousable
+Level of Consciousness: Alert and interactive.
+Vital Signs Stable
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive
+Edema: 1+
+Level of Consciousness: Alert and interactive.
+Ambulating with steady gait
+Level of Consciousness: Alert and interactive.
+Patient able to ambulate. Tolerating PO and moving bowels and bladder appropriately.
+Hemodynamically Stable
+CN: L facial droop, L field cut, o/w intact
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Activity Status: Bedbound
+Level of Consciousness: Alert and interactive.
+Ambulating, deconditioned
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Hematocrit stable.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Lethargic, minimally arousable.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+No focal deficits.
+Sternal pain managed with oral analgesics
+Level of Consciousness: Lethargic but arousable.
+Level of Consciousness: Alert and interactive.
+Stable, chest pain free
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Stable, starting to eat regular diet, c/o occassional abdominal discomfort
+Ambulating without assistance.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Patient is ambulating
+Expired on
+Improved tachycardia and stable hip pain.
+Level of Consciousness: Alert and interactive.
+Improved, no seizures
+Activity Status:Ambulatory - Independent
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Sternal - healing well, no erythema or drainage
+Leg Right/Left - healing well, no erythema or drainage
+Sternal - healing well, no erythema or drainage
+Level of Consciousness: Alert and interactive.
+Stable to go home; no dysnpea with walking, peripheral edema stable, HCT stable.
+Sternal Incision - healing well, no erythema or drainage
+Adequate pain control with oral medication
+Ambulating, gait steady
+Activity Status: Ambulatory - Independent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Clear and coherent.
+Sternal - healing well, no erythema or drainage
+Poor - Comfort Measures only
+Activity Status: Ambulatory - Independent.
+Ambulating with steady gait
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent.
+Left arm no movement even to nox stim, Left leg - at IP, 3 at hamstring, 5- at quad, 2 at dorsiflexor, 4 at plantar flexor : decreased on right side,
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+stable, afebrile, blood pressure at baseline
+Activity Status: Ambulatory - requires close assistance or aid (walker or cane)
+Activity Status: Bedbound.
+Mental Status: Clear and coherent.
+Alert and oriented x3 nonfocal
+Neurologically Stable
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Leg Right/Left - healing well, no erythema or drainage
+Mental Status: Confused - always.
+Mental Status: Clear and coherent.
+Stable, 98% on 4L
+Neurologically stable
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Ambulating with steady gait
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Good, vital signs stable
+Mental Status:Clear and coherent
+Stable, HCT of 32
+Level of Consciousness: Alert and interactive.
+Alert and oriented x3 nonfocal
+No apnea and bradycardia for five consecutive days.
+Sternal pain managed with ultram prn
+Incisional pain managed with tylenol
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Ambulating with steady gait
+Ambulating, gait steady
+in two to three weeks time with a repeat head CT.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Incisional pain managed with Percocet
+Mental Status: Clear and coherent
+stable, ambulating, tolerating po, chest pain-free
+Hct stable
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Leg Edema-2+ bilat
+Activity Status:Ambulatory - Independent
+Ambulating unassisted.
+Ambulating with steady gait
+INR is in target range 2.5-3
+stable, eating, on room air
+Sternal - healing well, no erythema or drainage
+Alert and oriented x3 nonfocal
+Level of Consciousness: Lethargic but arousable.
+Left with distal erythema and drainage
+Activity Status:Out of Bed with assistance to chair or wheelchair
+Sternal - healing well, no erythema or drainage
+Mental Status: Clear and coherent.
+Ambulating without assistance
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Patient expired
+Level of Consciousness: Alert and interactive.
+Ambulatory with walker, needs home PT
+Neurologically Stable
+Activity Status: Ambulatory - Independent.
 neurologically stable
-level of consciousness alert and interactive
-mental status confused sometimes
-level of consciousness alert and interactive
-activity status out of bed with assistance to chair or wheelchair
-stable hct 29
-activity status ambulatory independent
-good stable
-mental status confused always
-activity status ambulatory independent
-mental status clear and coherent
-was afebrile
-vital signs stable
-hemodynamically stable
-level of consciousness alert and interactive
-mental status clear and coherent
-hemodynamically stable
-mental status clear and coherent
-mental status clear and coherent
-ambulating gait steady
-ambulating with steady gait
-sensation intact but with variable extinction to dss on the left
-vital signs stable
-alert and oriented x3 nonfocal
-level of consciousness alert and interactive
-awake alert trached
-activity status out of bed with assistance to chair or wheelchair
-activity status out of bed with assistance to chair or wheelchair
-his plan was to follow up with dr in four to six weeks
-tolerating pos
-mental status clear and coherent
-mental status clear and coherent
-mild confusion at times
-level of consciousness lethargic but arousable
-please hold coumadin dose on evening of and recheck pt inr daily readdress and reinitiate coumadin start on
-afebrile vital signs stable
-therapy and was felt to be walking well on his own and will be continued to be followed as an outpatient with home pt as well as visiting nursing for dressing changes and medications
-hematocrit stable
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-tolerating tube feeds
-mental status clear and coherent
-mental status clear and coherent
-ambulating gait steady
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-activity status ambulatory independent
-stable on 1l oxygen
-leg right left healing well no erythema or drainage
-activity status ambulatory independent
-mental status clear and coherent
-mental status confused sometimes
-activity status ambulatory as tolerated requires assistance
-at time of discharge the patient was clinically doing well with stable vital signs and her oxygen requirements had returned to her usual baseline on 2 5l oxygen via nasal cannula which was her pre admission home oxygen requirement
-the patient is to be discharged to home in stable condition
-vital signs stable afebrile
-activity status ambulatory requires assistance or aid walker or cane
-hemodynamically stable requiring mechanical ventilation following commands
-stable ambulatory and o2 saturation stable on room air
-mental status confused sometimes
-left sided weakness lower extremity greater than upper extremity
-level of consciousness alert and interactive
-of pediatrics in
-level of consciousness alert and interactive
-good o2 saturation 95 on 2l o2 at rest
-leg right left healing well no erythema or drainage
-level of consciousness alert and interactive
-mental status clear and coherent
-activity status bedbound
-alert and oriented x3 nonfocal
-mental status clear and coherent
-ambulating gait steady
-level of consciousness lethargic but arousable
-stable on 3l o2
-pt deceased
-ambulating with steady gait
-level of consciousness lethargic but arousable
-level of consciousness alert and interactive
-vital signs stable
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-edema 1
-level of consciousness alert and interactive
-ambulating with steady gait
-level of consciousness alert and interactive
-patient able to ambulate tolerating po and moving bowels and bladder appropriately
-hemodynamically stable
-cn l facial droop l field cut o w intact
-activity status out of bed with assistance to chair or wheelchair
-activity status bedbound
-level of consciousness alert and interactive
-ambulating deconditioned
-activity status out of bed with assistance to chair or wheelchair
-hematocrit stable
-level of consciousness alert and interactive
-level of consciousness lethargic minimally arousable
-level of consciousness alert and interactive
-activity status ambulatory independent
-no focal deficits
-sternal pain managed with oral analgesics
-level of consciousness lethargic but arousable
-level of consciousness alert and interactive
-stable chest pain free
-activity status ambulatory requires assistance or aid walker or cane
-stable starting to eat regular diet c o occassional abdominal discomfort
-ambulating without assistance
-level of consciousness alert and interactive
-activity status ambulatory independent
-activity status ambulatory independent
-activity status ambulatory independent
-mental status clear and coherent
-patient is ambulating
-expired on
-improved tachycardia and stable hip pain
-level of consciousness alert and interactive
-improved no seizures
-activity status ambulatory independent
-level of consciousness alert and interactive
-mental status clear and coherent
-sternal healing well no erythema or drainage
-leg right left healing well no erythema or drainage
-sternal healing well no erythema or drainage
-level of consciousness alert and interactive
-stable to go home no dysnpea with walking peripheral edema stable hct stable
-sternal incision healing well no erythema or drainage
-adequate pain control with oral medication
-ambulating gait steady
-activity status ambulatory independent
-activity status out of bed with assistance to chair or wheelchair
-mental status clear and coherent
-sternal healing well no erythema or drainage
-poor comfort measures only
-activity status ambulatory independent
-ambulating with steady gait
-mental status clear and coherent
-activity status ambulatory independent
-activity status ambulatory independent
-activity status ambulatory independent
-left arm no movement even to nox stim left leg at ip 3 at hamstring 5 at quad 2 at dorsiflexor 4 at plantar flexor decreased on right side
-activity status out of bed with assistance to chair or wheelchair
-stable afebrile blood pressure at baseline
-activity status ambulatory requires close assistance or aid walker or cane
-activity status bedbound
-mental status clear and coherent
-alert and oriented x3 nonfocal
-neurologically stable
-mental status clear and coherent
-mental status clear and coherent
-leg right left healing well no erythema or drainage
-mental status confused always
-mental status clear and coherent
-stable 98 on 4l
-neurologically stable
-activity status out of bed with assistance to chair or wheelchair
-ambulating with steady gait
-activity status ambulatory independent
-mental status clear and coherent
-good vital signs stable
-mental status clear and coherent
-stable hct of 32
-level of consciousness alert and interactive
-alert and oriented x3 nonfocal
-no apnea and bradycardia for five consecutive days
-sternal pain managed with ultram prn
-incisional pain managed with tylenol
-mental status clear and coherent
-activity status ambulatory independent
-ambulating with steady gait
-ambulating gait steady
-in two to three weeks time with a repeat head ct
-level of consciousness alert and interactive
-mental status clear and coherent
-incisional pain managed with percocet
-mental status clear and coherent
-stable ambulating tolerating po chest pain free
-hct stable
-mental status clear and coherent
-level of consciousness alert and interactive
-mental status clear and coherent
-leg edema 2 bilat
-activity status ambulatory independent
-ambulating unassisted
-ambulating with steady gait
-inr is in target range 2 5 3
-stable eating on room air
-sternal healing well no erythema or drainage
-alert and oriented x3 nonfocal
-level of consciousness lethargic but arousable
-left with distal erythema and drainage
-activity status out of bed with assistance to chair or wheelchair
-sternal healing well no erythema or drainage
-mental status clear and coherent
-ambulating without assistance
-activity status ambulatory requires assistance or aid walker or cane
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Confused - sometimes.
+Mental Status: Clear and coherent.
+Level of consciousness: clear and coherent
+Activity Status: Ambulatory - requires assistance related to left sided rib fractures
+Alert and Oriented x3, tolerating regular diet, ambulating
+Incisional pain managed with oral analgesics
+Pt was stable
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Activity Status: Bedbound.
+Ambulatory status: requires assistance with ambulation, transfer due to knee pain s/p wash-out
+Ambulating with steady gait
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: awake
+Persistently tachypneic.
 patient expired
-level of consciousness alert and interactive
-ambulatory with walker needs home pt
-neurologically stable
-activity status ambulatory independent
-neurologically stable
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-mental status confused sometimes
-mental status clear and coherent
-level of consciousness clear and coherent
-activity status ambulatory requires assistance related to left sided rib fractures
-alert and oriented x3 tolerating regular diet ambulating
-incisional pain managed with oral analgesics
-pt was stable
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-activity status ambulatory independent
-mental status clear and coherent
-activity status bedbound
-ambulatory status requires assistance with ambulation transfer due to knee pain s p wash out
-ambulating with steady gait
-activity status out of bed with assistance to chair or wheelchair
-activity status out of bed with assistance to chair or wheelchair
-mental status awake
-persistently tachypneic
-patient expired
-alert and oriented x3 nonfocal
-mental status clear and coherent
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-physical therapy clearance obtained inr 2 2 hct 25 7
-the patient is stable on her home oxygen
-level of consciousness alert and interactive
-see d c summ
-mental status clear and coherent
-medically stable
-level of consciousness alert and interactive
-afebrile with no sign of pneumonia or urinary tract infection
-ambulating with steady gait
-afebrile stable ambulatory
+Alert and oriented x3, nonfocal
+Mental Status: Clear and coherent
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+Physical therapy clearance obtained. : INR 2.2, Hct 25.7
+The patient is stable on her home oxygen
+Level of Consciousness: Alert and interactive.
+see d/c summ
+Mental Status: Clear and coherent.
+Medically Stable
+Level of Consciousness: Alert and interactive.
+Afebrile with no sign of pneumonia or urinary tract infection
+Ambulating with steady gait
+Afebrile, stable, ambulatory.
+Hemodynamically stable
+Incisional pain managed with oral analgesics
+stable, tolerating full POs
+Level of Consciousness:Alert and interactive
+Alert and oriented x3 nonfocal
+Activity Status: Ambulatory - Independent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+Edema; trace lower extremity edema
+Neurologically Stable
+Bilateral knees with scabs - wound gel with dry dressing
+Sternal - healing well, no erythema or drainage
+Activity Status: Bedbound.
+Level of Consciousness: Alert and interactive.
+Incisional pain managed with oral analgesics
+Unresponsive; grimace or eye opening occasionally to deep noxious stimuli
+Edema none
+Activity Status: Ambulatory - Independent.
+Mental Status: Confused - sometimes.
 hemodynamically stable
-incisional pain managed with oral analgesics
-stable tolerating full pos
-level of consciousness alert and interactive
-alert and oriented x3 nonfocal
-activity status ambulatory independent
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-edema trace lower extremity edema
-neurologically stable
-bilateral knees with scabs wound gel with dry dressing
-sternal healing well no erythema or drainage
-activity status bedbound
-level of consciousness alert and interactive
-incisional pain managed with oral analgesics
-unresponsive grimace or eye opening occasionally to deep noxious stimuli
-edema none
-activity status ambulatory independent
-mental status confused sometimes
-hemodynamically stable
-alert and oriented x3 nonfocal
-level of consciousness alert and interactive
-mental status clear and coherent
-activity status ambulatory independent
-torso sensory level at t5 t6 to pin bilaterally
-full strength in upper extremities normal gait mild unsteadiness with tandem gait
-mental status confused sometimes
-level of consciousness alert and interactive
-mental status clear and coherent
-temperature 98 1
-the infant is discharged in good condition
-pain well controlled with comfort medications
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-stable hct x 48 hours tolerating full diet
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-no seizures r shoulder remained tender and was managed with a sling and follow up pt
-mental status clear and coherent
-level of consciousness alert and interactive
-he also presents an umn pattern of weakness in his rigth hemibody
-leg right and left healing well no erythema or drainage
-activity status ambulatory independent
-ambulating gait steady
-level of consciousness alert and interactive
-the patient was discharged afebrile hemodynamically stable with appropriate follow up
-mental status clear and coherent
-ambulating with steady gait
+Alert and oriented x3 nonfocal
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Torso sensory level at T5-T6 to pin bilaterally.
+Full strength in upper extremities, Normal gait, mild unsteadiness with tandem gait
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Temperature 98.1
+The infant is discharged in good condition
+Pain well controlled with Comfort Medications
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Stable hct x 48 hours, tolerating full diet
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Level of Consciousness: Alert and interactive.
+No seizures; R shoulder remained tender and was managed with a sling and follow up PT.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+He also presents an UMN pattern of weakness in his RIGTH hemibody ().
+Leg Right and Left - healing well, no erythema or drainage.
+Activity Status: Ambulatory - Independent.
+Ambulating, gait steady
+Level of Consciousness: Alert and interactive.
+The patient was discharged afebrile, hemodynamically stable with appropriate follow up.
+Mental Status: Clear and coherent.
+Ambulating with steady gait
 no clear gaze preference
-alert and oriented x3 nonfocal
-level of consciousness lethargic but arousable
-mental status clear and coherent
-level of consciousness alert and interactive
-mental status clear and coherent
-incisional pain managed with oral analgesics
-mental status clear and coherent
-activity status out of bed with assistance to chair or wheelchair
-sternal healing well no erythema or drainage
-level of consciousness alert and interactive
-stable encephalopathy improving taking good po intake
-afebrile vital signs stable
-edema trace
-good ambulating tolerating po meds stable on 2l oxygen
-sternal healing well no erythema or drainage
-mental status clear and coherent
-left leg all groups
-mental status clear and coherent
+Alert and oriented x3, nonfocal
+Level of Consciousness: Lethargic but arousable.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Incisional pain managed with oral analgesics
+Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Sternal - healing well, no erythema or drainage
+Level of Consciousness: Alert and interactive
+Stable, Encephalopathy improving; Taking good PO intake;
+Afebrile, vital signs stable
+Edema: trace
+Good, ambulating, tolerating PO meds, stable on 2L oxygen
+Sternal - healing well, no erythema or drainage
+Mental Status: Clear and coherent.
+Left leg: all groups.
+Mental Status: Clear and coherent.
 hemodynamically stable
-ambulating with steady gait
-incisional pain managed with oral analgesia
-his renal function has improved
-mental status clear and coherent
-level of consciousness alert and interactive
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-mental status confused sometimes
-alert and oriented x3 nonfocal
-sternal wound healing well no erythema or drainage on keflex per dr
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status clear and coherent
-no sensory deficits noted
-stable for discharge back to
-edema trace
-medically stable
-sternal pain managed with oral analgesics
-mental status clear and coherent
-ambulating gait steady
-hemodynamically stable with normal vitals and plan for follow up in place
-level of consciousness alert and interactive
-making improvements in function and mobility
-hemodynamically stable afebrile shortnes of breath and cough improved
-ambulating with steady gait
-vital signs stable
-activity status ambulatory independent
-on 2 liters o2 with sats of 93 97
-level of consciousness alert and interactive
-mental status confused sometimes
-incisional pain managed with ultram prn and then oxycodone ir 2 5 mg just prior to pt for left leg discomfort
-mental status clear and coherent
-level of consciousness alert and interactive
-incisional pain managed with oral analgesics
-level of consciousness alert and interactive
-well afebrile pain free
-incisions sternal incision with small amount serosanguinous drainage from lower
-ambulating gait steady
-neurologically stable
-mental status clear and coherent
-good free of chest pain
-patient expired
-alert and oriented x3 nonfocal
-adequate pain control with oral medication
-mental status clear and coherent baseline mental retardation
-on ventilator
-incisions sternal healing well no erythema or drainage
-upon discharge the patient was hemodynamically stable and afebrile
-moves all extremities spontaneously and continuously
-activity status ambulatory independent
-ambulating with assistance deconditioned
-ambulate as tolerated
-hemodynamically stable afebrile and without pain
-aao x 3
-activity status ambulatory independent
-slight palsy of left eye on lateral gaze
-mental status clear and coherent
-mental status clear slow but coherent speech
-neurologically stable but still has some confusion
-level of consciousness alert and interactive
-otherwise intact
-level of consciousness alert and interactive
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-mental status clear and coherent
-incisions sternal healing well no erythema or drainage
-level of consciousness alert and interactive
-ambulating with steady gait
-alert and oriented x3 nonfocal
-mental status clear and coherent
-level of consciousness alert and interactive
-mental status clear and coherent
-mental status confused aphasic at times
-afebrile vital signs stable
-mental status clear and coherent
-ambulating with steady gait
-ambulating with steady gait
-level of consciousness alert and interactive
-edema trace
-n a pt expired on
-activity status out of bed with assistance to chair or wheelchair
-vital signs stable dischare to police custody
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-mental status confused sometimes
-vital signs temperature 96 blood pressure 128 85 heart rate 85 patient is on 2 liters of
-able to move all limbs against gravity with some r l preference
-level of consciousness alert and interactive
-mental status confused always
-mental status clear and coherent
-neuro exam notable for severe pseudobulbar palsy leading to anarthria and dysphagia tongue fasciculations atrophy of hands diffuse weakness severe spasticity of les
-activity status bedbound
-vital signs stable afebrile eating ambulating
-patient remains at risk for withdrawal for the next 7 days
-activity status ambulatory independent
-level of consciousness alert and interactive
-hemodynamically stable tolerating a regular diet pain adequately controlled
-level of consciousness alert and interactive
-mental status at baseline
-all vital signs stable afebrile
-activity status ambulatory independent
-mental status clear and coherent
-improved stable hct 29
-alert and oriented x3 nonfocal
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-mental status clear nonfluent aphasia
-level of consciousness alert and interactive
-mental status clear and coherent
-activity status out of bed with assistance to chair or wheelchair
-mental status confused sometimes
-mental status clear and coherent
-mental status clear and coherent
-afebrile all vital signs stable improving mental status conversive
-ambulating gait steady
-mental status confused sometimes
-level of consciousness alert and interactive
-good afvss bp 113 57
-the patient is stable
-sternal pain managed with oral analgesics
-mental status clear and coherent
-activity status ambulatory independent
-mental status clear cognitive status at baseline
-awake alert
-ambulating gait steady
-mental status clear and coherent
-activity status ambulatory independent minimal assistance
-stable breathing comfortably on room air responsive to tactile stimuli minimally responsive to voice with spontaneous movements
-level of consciousness alert and interactive
-ambulating with steady gait
-incisional pain managed with tylenol
-mental status confused sometimes
-activity status ambulatory requires assistance or aid walker or cane
-mental status clear and coherent
-activity status ambulatory independent
-alert and oriented x3 nonfocal
-activity status ambulatory independent
-weak right leg
-activity status out of bed with assistance to chair or wheelchair
-edema trace
-level of consciousness alert and interactive
-ambulatory status oob with lift to chairmental status
-afib rate controlled
-activity status out of bed with assistance to chair or wheelchair
-alert and oriented x3 nonfocal
-mental status clear and coherent
-stable tolerating po ambulating
-he was discharged to home in good condition with physical therapy
-mental status clear and coherent
-activity status ambulatory independent
-mental status clear and coherent
-mental status clear and coherent
-see discharge summary
-eating a regualr diet
-stable following commands appropriately a ox3 o2 sats 96 98 ra
-level of consciousness alert and interactive
-activity status out of bed with assistance to chair or wheelchair
-activity status ambulatory independent
-fair slurred speech greatly improved
-level of consciousness alert and interactive
-alert and oriented x 3
-mental status confused sometimes
-level of consciousness alert and interactive
-mental status clear and coherent
-alert and oriented x3 nonfocal
-bed bound
-neurological exam mental status alert oriented to month year hospital cn question intermittent right facial droop when tired left eyelid with mild ptosis dyarthria motor right side full left side with mild weakness in the range but significant ataxia out of proportion to his weakness senation intact coordination markedly diminished in the left upper and lower extremities
-stable going home with hospice anisocoria l r incomplete upward gaze and convergence hoarse voice palate elevates sluggish tongue deviates left
-good afebrile
-mental status clear and coherent
-eating walking no signs of infection no signs of cord compression
-left leg incision clean and dry
-stable satting well on room air
-activity status ambulatory independent
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-stable oxygenation on ps afebrile x 48 hours
-has uti
-mental status in a vegetative state at baseline nonverbal not oriented does not follow commands all at baseline
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-edema trace bilateral lower extremities
-tolerating food and drink by mouth
-fair continued to require pressure support ventilation
-alert and oriented
-level of consciousness alert and interactive
-mental status clear and coherent
-mental status confused sometimes
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status clear and coherent
-tracheostomy on cpap good condition stable
-activity status ambulatory requires assistance or aid walker or cane
-activity status ambulatory independent
-stable vitals and hr
-a restricted mood incongruent inappropriate
-ambulating with assistance
-activity status bedbound
-alert and oriented x 3
-level of consciousness alert and interactive
-neurologically stable
-mental status clear and coherent
-tracks moves upper extremities
-hemodynamically stable tolerating a regular diet pain adequately controlled
-activity status ambulatory independent
-sternal healing well no erythema or drainage
-tolerating po
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-stable breathing comfortably on room air tolerating diet without any skin rash
-mildly dysarthric speech and left facial droop
-edema 2 lower extremities bilaterally 2 left upper extremity
-level of consciousness alert and interactive
-ambulating gait steady
-the patient weighed 60 kg preoperatively
-discharged on trach mask with psv of
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-good breathing well on room air
-edema generalized edema of upper and lower extremities
-sternal incision healing well no erythema or drainage
-her vulva and labia had similar lesions
-level of consciousness alert and interactive
-activity status ambulatory independent
+Ambulating with steady gait
+Incisional pain managed with oral analgesia
+His renal function has improved
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Confused - sometimes.
+Alert and oriented x3, nonfocal
+Sternal wound healing well, no erythema or drainage, on keflex per Dr
+Level of Consciousness: Alert and interactive.
+Level of Consciousness:Alert and interactive
+Mental Status: Clear and coherent.
+No sensory deficits noted.
+Stable for discharge back to
+Edema trace
+medically stable.
+Sternal pain managed with oral analgesics
+Mental Status: Clear and coherent.
+Ambulating, gait steady
+Hemodynamically stable with normal vitals and plan for follow up in place.
+Level of Consciousness: Alert and interactive.
+Making improvements in function and mobility
+hemodynamically stable, afebrile, shortnes of breath and cough improved
+Ambulating with steady gait
+Vital signs stable
+Activity Status: Ambulatory - Independent.
+On 2 liters O2 with sats of 93-97%
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - sometimes.
+Incisional pain managed with ultram prn and then oxycodone IR 2.5 mg just prior to PT for left leg discomfort
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Incisional pain managed with oral analgesics
+Level of Consciousness: Alert and interactive.
+well, afebrile, pain free
+Incisions: Sternal incision with small amount serosanguinous drainage from lower .
+Ambulating, gait steady
+Neurologically Stable
+Mental Status: Clear and coherent.
+Good - free of chest pain.
+Patient expired
+Alert and oriented x3 nonfocal
+Adequate pain control with oral medication
+Mental Status: Clear and coherent (Baseline mental retardation)
+On ventilator
+Incisions: Sternal - healing well, no erythema or drainage
+Upon discharge, the patient was hemodynamically stable and afebrile
+Moves all extremities spontaneously and continuously.
+Activity Status: Ambulatory - Independent.
+Ambulating with assistance- deconditioned
+Ambulate as tolerated
+Hemodynamically stable, afebrile and without pain.
+AAO x 3
+Activity Status: Ambulatory - Independent.
+Slight palsy of left eye on lateral gaze.
+Mental Status: Clear and coherent.
+Mental Status: Clear, slow but coherent speech.
+Neurologically stable, but still has some confusion
+Level of Consciousness: Alert and interactive.
+Otherwise intact.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Clear and coherent
+Incisions: Sternal - healing well, no erythema or drainage
+Level of Consciousness: Alert and interactive.
+Ambulating with steady gait
+Alert and oriented x3 nonfocal
+Mental Status:Clear and coherent
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Mental Status: Confused, aphasic at times
+Afebrile, vital signs stable
+Mental Status: Clear and coherent.
+Ambulating with steady gait
+Ambulating with steady gait
+Level of Consciousness: Alert and interactive.
+Edema: trace
+N/A, pt expired on
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+vital signs stable, dischare to police custody
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - sometimes.
+Vital signs: Temperature 96, blood pressure 128/85, heart rate 85, patient is % on 2 liters of
+Able to move all limbs against gravity, with some R>L preference
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - always.
+Mental Status: Clear and coherent.
+Neuro exam notable for severe pseudobulbar palsy leading to anarthria and dysphagia, tongue fasciculations, atrophy of hands, diffuse weakness, severe spasticity of LEs.
+Activity Status: Bedbound.
+vital signs stable, afebrile, eating, ambulating
+Patient remains at risk for withdrawal for the next 7 days
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Hemodynamically stable, tolerating a regular diet, pain adequately controlled.
+Level of Consciousness: Alert and interactive.
+Mental status at baseline
+All vital signs stable, afebrile
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+improved, stable Hct ~29
+Alert and oriented x3 nonfocal
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Clear (nonfluent aphasia)
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Confused - sometimes.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Afebrile, all vital signs stable, improving mental status (conversive)
+Ambulating, gait steady
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+good, AFVSS BP 113/57
+The patient is stable.
+Sternal pain managed with oral analgesics
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear, cognitive status at baseline
+Awake, alert
+Ambulating, gait steady
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent (minimal assistance)
+stable, breathing comfortably on room air, responsive to tactile stimuli, minimally responsive to voice, with spontaneous movements
+Level of Consciousness: Alert and interactive.
+Ambulating with steady gait
+Incisional pain managed with Tylenol
+Mental Status: Confused - sometimes.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Alert and oriented x3, nonfocal
+Activity Status: Ambulatory - Independent.
+Weak right leg
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Edema trace
+Level of Consciousness: Alert and interactive.
+Ambulatory status:OOB with lift to chairMental status: ????
+afib rate controlled.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Alert and oriented x3 nonfocal
+Mental Status: Clear and coherent.
+stable, tolerating po, ambulating
+He was discharged to home in good condition with Physical Therapy.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+See discharge summary.
+Eating a regualr diet.
+Stable, following commands appropriately, A&Ox3, O2 sats 96-98%RA
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Activity Status: Ambulatory - Independent.
+Fair - slurred speech greatly improved
+Level of Consciousness: Alert and interactive.
+Alert and oriented x 3
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent
+Alert and oriented x3 nonfocal
+Bed Bound
+Neurological exam: -Mental status: alert, oriented to month, year, hospital -CN: Question intermittent right facial droop when tired, left eyelid with mild ptosis, dyarthria -Motor: Right side full; left side with mild weakness in the range but significant ataxia out of proportion to his weakness -Senation: intact -Coordination: markedly diminished in the left upper and lower extremities
+Stable, going home with hospice, anisocoria L>R, incomplete upward gaze and convergence, hoarse voice, palate elevates sluggish, tongue deviates left
+good, afebrile
+Mental Status: Clear and coherent.
+Eating, walking, no signs of infection, no signs of cord compression.
+Left leg incision clean and dry
+Stable, satting well on room air
+Activity Status: Ambulatory - Independent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive
+Level of Consciousness: Alert and interactive.
+Stable oxygenation on PS, afebrile x 48 hours
+Has UTI.
+Mental status: In a vegetative state at baseline, nonverbal, not oriented, does not follow commands--all at baseline.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Edema trace bilateral lower extremities
+Tolerating food and drink by mouth.
+Fair - continued to require pressure support ventilation.
+Alert and oriented
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+tracheostomy on CPAP, good condition, stable
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Activity Status: Ambulatory - Independent.
+Stable vitals and HR.
+A: restricted, mood-incongruent, inappropriate
+Ambulating with assistance
+Activity Status: Bedbound.
+Alert and oriented x 3
+Level of Consciousness: Alert and interactive.
+Neurologically Stable
+Mental Status: Clear and coherent.
+Tracks, Moves upper extremities
+Hemodynamically stable, tolerating a regular diet, pain adequately controlled.
+Activity Status: Ambulatory - Independent.
+Sternal - healing well, no erythema or drainage
+Tolerating PO
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Stable, breathing comfortably on room air, tolerating diet, without any skin rash.
+Mildly dysarthric speech and left facial droop
+Edema - 2+ lower extremities bilaterally, 2+ left upper extremity
+Level of Consciousness: Alert and interactive.
+Ambulating, gait steady
+The patient weighed 60 kg preoperatively
+discharged on trach mask with PSV of
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Good, breathing well on room air
+Edema; generalized edema of upper and lower extremities
+Sternal Incision - healing well, no erythema or drainage
+Her vulva and labia had similar lesions.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
 stable and improving
-stable ambulating hct stable
-neurologically stable
-activity status ambulatory independent
-good afebrile therapeutic vancomycin levels improved functional capacity improved oxygentation
-pain control well managed
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness alert and interactive
-activity status bedbound
-level of consciousness alert and interactive
-sternal pain managed with dilaudid prn
-stable afebrile
-ambulating with steady gait
-level of consciousness alert and interactive
-respiratory breath sounds clear bilaterally decreased posteriorly at the bases
-level of consciousness alert and interactive
-pain well controlled
-stable on vent pressure support 22 12 and 40 fio2
-level of consciousness alert and interactive
-creatinine was 1 9 today
-activity status out of bed with assistance to chair or wheelchair
-mental status confused sometimes
-ambulating with steady gait
-mental status clear and coherent
-activity status out of bed with assistance to chair or wheelchair
-mental status confused sometimes
-ambulating gait steady
-incisional pain managed with oral analgesia
-mental status clear and coherent
-activity status ambulatory independent
-level of consciousness lethargic but arousable
-activity status ambulatory independent
-level of consciousness alert and interactive
-incisional pain managed with tylenol 3
-level of consciousness alert and interactive
-leg right left healing well no erythema or drainage
-leg right left healing well no erythema or drainage
-level of consciousness lethargic but arousable
-stable patient was ambulating tolerating oral intake and has returned to his baseline condition
-level of consciousness alert and interactive
-ambulating with steady gait
-good afebrile vss o2 sat in mid 90 s on ra ambulating pain free tolerating po well
-able to ambulate with assistance and walker
-mental status clear and coherent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-ambulating gait steady
-afebrile with normal white count
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-stable improved
-mental status clear and coherent
-alert and oriented x3 nonfocal
-activity status out of bed with assistance to chair or wheelchair
-stable with fs in 160s 200s and anion gap of 4
-the patient was told to follow up with dr
-serous drainage left ankle small amount covered with dry dressing
-activity status out of bed with assistance to chair or wheelchair
-activity status out of bed with assistance to chair or wheelchair
-hct stable
-activity status ambulatory independent
-mental status confused sometimes
-hemodynamically stable tolerating a regular diet pain adequately controlled
-mental status clear and coherent
-the patient was discharged home in stable condition
-incisional pain managed with oral analgesia
-level of consciousness alert and interactive
-awake alert comfortable saturating well on 2l nasal canula
-good stable
-leg right left healing well no erythema or drainage
-incisional pain managed with ultram and dilaudid
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-incisional pain managed with percocet
-activity status bedbound
-level of consciousness alert and interactive
-sternal pain managed with percocet prn
-activity status ambulatory independent
-mental status clear and coherent
-level of consciousness alert and interactive
-a ox3 self ambulating
-activity status ambulatory independent
-mental status clear and coherent
-level of consciousness alert and interactive
-mental status clear and coherent
-vital signs stable
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-mental status clear and coherent
-mental status clear and coherent
-activity status ambulatory independent
-mental status clear and coherent
-alert and oriented x3 nonfocal
-incisional pain managed with
-level of consciousness lethargic but arousable
-ambulating with steady gait
-mental status clear and coherent
-alert and oriented x3 nonfocal
-level of consciousness alert and interactive
-good hemodynamically stable
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-patient was discharged in stable condition
-hemodynamically stable afebrile confused requiring bipap at night
-level of consciousness alert and interactive
-is being discharged from the hospital in stable condition at normal mental status per her family and in a wheelchair
-level of consciousness alert and interactive
-incisional pain managed with
-level of consciousness alert and interactive
-activity status ambulatory independent
-o2 sat 98 ra
-full strength in all extremities
-pain well controlled
-afebrile blood cultures clear short term memory limited vitals stable
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness lethargic but arousable
-level of consciousness alert and interactive
-stable anion gap closed
-hemodynamically stable can ambulate a few steps with assistance afebrile
-incisional pain managed with ultram
-mental status clear and coherent withdrawn
-activity status out of bed with assistance to chair or wheelchair
-activity status ambulatory independent
-level of consciousness alert and interactive
-hemodynamically stable and respiratory status stable on vent sedated
-level of consciousness alert and interactive
-incisional pain managed with
-good stable tolerating regular diet no abdominal pain no hematemesis or hematochezia
-afebrile vital signs stable 93 on ra
-level of consciousness alert and interactive
-activity status ambulatory independent
-stable ambulating and tolerating pos
-mental status clear and coherent
-activity status ambulatory independent
-level of consciousness alert and interactive
-activity status ambulatory requires assistance or aid walker or cane
-activity status ambulatory requires assistance or aid walker or cane
-stable on the trach still requiring the vent
-stable satting in the upper 90 s on room air breathing comfortably no lower extremity edema and lung clear to ascultation
-ambulating gait steady
-mental status clear and coherent
-mental status clear and coherent
-ambulating gait steady
-level of consciousness alert and interactive
-activity status ambulatory independent
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness alert and interactive
-mental status confused always
-level of consciousness alert and interactive
-mental status clear and coherent
-medically stable
-activity status out of bed with assistance to chair or wheelchair
-mental status clear and coherent
-tolerating po
-mental status subacute delirium
-ambulating well with assistance
-level of consciousness alert and interactive
-pain controlled
-level of consciousness alert and interactive
-mental status clear and coherent
-activity status ambulatory independent
-activity status ambulatory independent
-good and stable
-vitals stable ambulatingtaking pos
-level of consciousness alert and interactive
-stable eating well afebrile hemodynamically stable
-mental status clear and coherent
-mental status clear and coherent
-level of consciousness alert and interactive
-ambulating with steady gait
-edema 1 bilaterally
-level of consciousness alert and interactive
-left thoracotomy wound healing well no drainage or erythema
-fair tolerating oral medications tolerating food ambulating well
-normal neurologic exam per family members and stable head ct
-ambulating gait steady
-mental status clear and coherent
-stable tolerating daytime trach mask
-hemodynamically stable mental status alert following commands and oriented
-mental status clear and coherent fluent spanish
-stable able to tolerate po walking afebrile
-level of consciousness alert and interactive
-mental status confused sometimes
-vital signs stable requiring assistance from pt to ambulate cleared by speech and swallow for pills and regular diet
-patient is in good condition
-activity status ambulatory independent
-activity status ambulatory independent
-level of consciousness alert and interactive
-mental status clear and coherent
-mental status clear and coherent
-sternal healing well no erythema or drainage
-good moderate hemodynamic control and afebrile
-activity status ambulatory independent
-the patient expired on
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-activity status ambulatory independent
-activity status ambulatory independent
-level of consciousness alert and interactive
-sternal healing well no erythema or drainage 1 le edema
-incisional pain managed with
-stable on 6 liters nc oxygen
-incisional pain managed with tylenol
-activity status ambulatory independent
-activity status ambulatory independent
-patient is with improved renal function is no longer hypotensive and is mentating clearly
-mental status clear and coherent
-activity status ambulatory independent
-activity status ambulatory independent
-level of consciousness alert and interactive
-alert and oriented x3 nonfocal
-mental status clear and coherent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-activity status out of bed with assistance to chair or wheelchair
-pain well controlled with oral medications
-cn intact slight rnlf poor hearing bilaterally o w fully intact
-mental status clear and coherent
-level of consciousness alert and interactive
-good stable
-incisional pain managed with percocet
-mental status confused sometimes
-stable still c o minimal abdominal pain but no point tenderness and the pain is much improved when she passes gas
-1 edema
-activity status ambulatory independent
-sternal healing well no erythema or drainage
-mental status clear and coherent
-vital signs stable
-suprapubic tube in place and draining well with minimal leak around tube urology evaluated and feel that tube is ok no need to resite
-afebrile mentating well
-mental status clear and coherent
-activity status out of bed with assistance to chair or wheelchair
-mental status clear and coherent
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness alert and interactive
-the patient was to be discharged home without services
-good strength improved over nadir though not quite at level of admission
-level of consciousness alert and interactive
-activity status ambulatory independent
-neurologically stable
+Stable, ambulating, Hct stable
+Neurologically stable
+Activity Status: Ambulatory - Independent.
+Good - afebrile, therapeutic vancomycin levels, improved functional capacity, improved oxygentation
+Pain control well managed
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+Level of Consciousness: Alert and interactive.
+Sternal pain managed with dilaudid prn
+Stable, afebrile.
+Ambulating with steady gait
+Level of Consciousness: Alert and interactive.
+Respiratory: Breath sounds clear bilaterally, decreased posteriorly at the bases.
+Level of Consciousness: Alert and interactive.
+Pain well controlled.
+stable on vent pressure support 22/12 and 40% FiO2
+Level of Consciousness: Alert and interactive.
+Creatinine was 1.9 today.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Confused - sometimes
+Ambulating with steady gait
+Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Confused - sometimes.
+Ambulating, gait steady
+Incisional pain managed with oral analgesia
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Incisional pain managed with tylenol #3
+Level of Consciousness: Alert and interactive
+Leg Right/Left - healing well, no erythema or drainage.
+Leg Right/Left - healing well, no erythema or drainage.
+Level of Consciousness: Lethargic but arousable.
+Stable - Patient was ambulating, tolerating oral intake, and has returned to his baseline condition.
+Level of Consciousness: Alert and interactive.
+Ambulating with steady gait
+Good; afebrile, VSS, O2 sat in mid-90%s on RA, ambulating pain-free, tolerating po well.
+Able to ambulate with assistance and walker.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Ambulating, gait steady
+Afebrile with normal white count
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Stable, improved
+Mental Status: Clear and coherent.
+Alert and oriented x3 nonfocal
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Stable, with FS in 160s-200s and anion gap of 4.
+The patient was told to follow up with Dr
+Serous drainage left ankle small amount - covered with dry dressing
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Hct stable
+Activity Status: Ambulatory - Independent.
+Mental Status:Confused - sometimes
+Hemodynamically stable, tolerating a regular diet, pain adequately controlled.
+Mental Status: Clear and coherent.
+The patient was discharged home in stable condition.
+Incisional pain managed with oral analgesia
+Level of Consciousness:Alert and interactive
+Awake, alert, comfortable, saturating well on 2L nasal canula
+Good, stable.
+Leg Right/Left - healing well, no erythema or drainage
+Incisional pain managed with Ultram and Dilaudid
+Level of Consciousness:Alert and interactive
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Incisional pain managed with Percocet
+Activity Status:Bedbound
+Level of Consciousness: Alert and interactive.
+Sternal pain managed with Percocet prn
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+A&Ox3 self ambulating
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Vital signs stable
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane)
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent
+Alert and oriented x3 nonfocal
+Incisional pain managed with
+Level of Consciousness: Lethargic but arousable.
+Ambulating with steady gait
+Mental Status:Clear and coherent
+Alert and oriented x3, nonfocal
+Level of Consciousness: Alert and interactive.
+Good, hemodynamically stable
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Patient was discharged in stable condition.
+Hemodynamically stable, afebrile, confused, requiring BiPAP at night
+Level of Consciousness: Alert and interactive.
+is being discharged from the hospital in stable condition, at normal mental status (per her family) and in a wheelchair.
+Level of Consciousness:Alert and interactive
+Incisional pain managed with
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+O2 sat 98% RA.
+Full strength in all extremities.
+Pain well controlled
+afebrile, blood cultures clear, short term memory limited, vitals stable
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Level of Consciousness: Lethargic but arousable.
+Level of Consciousness:Alert and interactive
+stable, anion gap closed
+Hemodynamically stable, can ambulate a few steps with assistance, afebrile.
+Incisional pain managed with Ultram
+Mental Status: Clear and coherent, withdrawn.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Hemodynamically stable and respiratory status stable on vent, sedated.
+Level of Consciousness: Alert and interactive
+Incisional pain managed with
+good, stable, tolerating regular diet, no abdominal pain, no hematemesis or hematochezia
+Afebrile, vital signs stable, 93% on RA.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Stable; ambulating and tolerating POs.
+Mental Status: Clear and coherent.
+Activity Status:Ambulatory - Independent
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Stable on the trach still requiring the vent
+Stable-- satting in the upper 90's on room air, breathing comfortably; no lower extremity edema and lung clear to ascultation.
+Ambulating, gait steady
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Ambulating, gait steady
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Medically stable.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Clear and coherent.
+Tolerating PO.
+Mental Status: Subacute delirium
+Ambulating well with assistance
+Level of Consciousness: Alert and interactive.
+Pain controlled
+Level of Consciousness: Alert and interactive.
+Mental Status:Clear and coherent
+Activity Status:Ambulatory - Independent
+Activity Status: Ambulatory - Independent.
+Good and stable.
+vitals stable,ambulatingtaking pos
+Level of Consciousness: Alert and interactive.
+stable, eating well, afebrile, hemodynamically stable
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Ambulating with steady gait
+Edema 1+ bilaterally
+Level of Consciousness: Alert and interactive.
+Left thoracotomy wound healing well, no drainage or erythema
+fair - tolerating oral medications, tolerating food, ambulating well.
+Normal neurologic exam per family members and , stable head CT.
+Ambulating, gait steady
+Mental Status: Clear and coherent.
+stable, tolerating daytime trach mask
+Hemodynamically stable, mental status alert, following commands and oriented
+Mental Status: Clear and coherent, fluent Spanish
+Stable, able to tolerate PO, walking, afebrile
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - sometimes.
+Vital signs stable, requiring assistance from PT to ambulate, cleared by speech and swallow for pills and regular diet.
+Patient is in good condition
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Sternal - healing well, no erythema or drainage
+Good, moderate hemodynamic control and afebrile
+Activity Status: Ambulatory - Independent.
+The patient Expired on
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane)
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Sternal - healing well, no erythema or drainage 1+ LE Edema
+Incisional pain managed with
+stable, on 6 liters NC oxygen
+Incisional pain managed with tylenol
+Activity Status:Ambulatory - Independent
+Activity Status: Ambulatory - Independent.
+Patient is with improved renal function, is no longer hypotensive, and is mentating clearly.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive
+Alert and oriented x3 nonfocal
+Mental Status:Clear and coherent
+Level of Consciousness: Alert and interactive.
+Level of Consciousness:Alert and interactive
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Pain well controlled with oral medications.
+CN: intact, slight RNLF, poor hearing bilaterally, o/w fully intact
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+good, stable
+Incisional pain managed with Percocet
+Mental Status: Confused - sometimes.
+Stable-- still c/o minimal abdominal pain, but no point tenderness and the pain is much improved when she passes gas.
+1+ Edema
+Activity Status: Ambulatory - Independent.
+Sternal - healing well, no erythema or drainage
+Mental Status: Clear and coherent.
+Vital signs stable
+Suprapubic tube in place and draining well with minimal leak around tube, Urology evaluated and feel that tube is OK, no need to resite.
+Afebrile, Mentating well
+Mental Status: Clear and coherent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+The patient was to be discharged home without services
+Good - strength improved over nadir, though not quite at level of admission
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Neurologically stable
 see previous
-level of consciousness alert and interactive
-afebrile and hemodynamically stable
-ambulating gait steady
-pt with difficulty with ambulation and being discharged to rehab for pt
-stable with no more seizure activy
-level of consciousness alert and interactive
-activity status out of bed with assistance to chair or wheelchair
-at baseline respiratory status no gross fluid overload lungs clear
-activity as tolerated
-patient with ongoing o2 requirement above baseline
-tolerating pos ambulating without difficulty
-mental status confused sometimes
-edema 2
-level of consciousness alert and interactive
-right facial droop and otherwise cn exam unremarkable
-mental status clear and coherent
-stable ambulating tolerating po diet afebrile
-activity status ambulatory independent
-stable on room air
-able to get from bed to chair with assistance
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status clear and coherent
-stable resolved diarrhea stable blood pressure
-level of consciousness alert and interactive
-activity status ambulatory independent
-mental status clear and coherent
-ambulating with steady gait
-activity status ambulatory requires assistance or aid walker or cane
-moves l arm
-stable to rehab
-mental status clear and coherent
+Level of Consciousness: Alert and interactive.
+Afebrile and hemodynamically stable
+Ambulating, gait steady
+pt with difficulty with ambulation and being discharged to rehab for PT.
+Stable, with no more seizure activy
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+At baseline respiratory status; no gross fluid overload, lungs clear.
+Activity as tolerated
+Patient with ongoing O2 requirement above baseline.
+Tolerating POs, ambulating without difficulty.
+Mental Status: Confused - sometimes.
+Edema 2+
+Level of Consciousness: Alert and interactive.
+Right facial droop and otherwise CN exam unremarkable
+Mental Status: Clear and coherent.
+Stable, ambulating, tolerating PO diet, afebrile
+Activity Status: Ambulatory - Independent.
+stable, on room air
+Able to get from bed to chair with assistance
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent
+Stable, resolved diarrhea, stable blood pressure
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Ambulating with steady gait
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Moves L arm
+Stable to rehab
+Mental Status: Clear and coherent.
 chest pain free
-denies suicide ideation
-stable hct stable
-still remains with significant dysphagia for oral secretions and severe neck flexor deltoid and triceps weakness with some weakness of neck extensors biceps and iliopsoas as well
-mental status confused sometimes
-activity status ambulatory independent
-sternal healing well no erythema or drainage
-wheelchair bound
-neurologically stable
-level of consciousness alert and interactive
-activity status ambulatory independent
-mental status clear and coherent
-activity status bedbound
-alert and oriented x3 nonfocal
-no apparent distress
-edema none
-level of consciousness alert and interactive
-activity status ambulatory independent
-leg right echymotic healing well no erythema or drainage
-activity status ambulatory independent
-afebrile vss
-ambulating with steady gait
-mental status confused sometimes
-activity status out of bed with assistance to chair or wheelchair
-mental status confused sometimes
-level of consciousness alert and interactive
-stable l lateral rectus palsy
-level of consciousness alert and interactive
-mental status confused sometimes
+Denies suicide ideation.
+stable, hct stable
+Still remains with significant dysphagia for oral secretions, and severe neck flexor, deltoid and triceps weakness with some weakness of neck extensors, biceps and iliopsoas as well
+Mental Status: Confused - sometimes.
+Activity Status: Ambulatory - Independent.
+Sternal - healing well, no erythema or drainage
+Wheelchair bound.
+Neurologically stable
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Activity Status: Bedbound.
+Alert and oriented x3 nonfocal
+No apparent distress.
+Edema none
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Leg Right - echymotic healing well, no erythema or drainage.
+Activity Status: Ambulatory - Independent.
+Afebrile, VSS.
+Ambulating with steady gait
+Mental Status: Confused - sometimes.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Stable, L lateral rectus palsy
+Level of Consciousness:Alert and interactive
+Mental Status: Confused - sometimes.
 tolerating regular diet
-activity status ambulatory requires assistance or aid walker or cane
-patient hemodynamically stable afebrile with o2 saturation 95 on room air
-activity status ambulatory independent
-alert oriented x3 pain controlled
-good pain control tolerating pos no shortness of breath
-he was sent home in stable condition with amiodarone and metoprolol for control of afib
-mental status clear and coherent
-sternal healing well no erythema or drainage
-mental status clear and coherent
-leg right left healing well no erythema or drainage
-mental status clear and coherent
-activity status ambulatory independent
-level of consciousness alert and interactive
-stable with stable hematocrit and hemodynamics
-the infant is being discharge in good condition
-activity status out of bed with assistance to chair or wheelchair
-afebrile hemodynamically stable asymptomatic
-mental status clear and coherent
-minimal bifacial weakness
-expired on at 6 28am
-leg right left healing well no erythema or drainage
-ambulating with steady gait
-mental status clear and coherent
-level of consciousness alert and interactive
-activity status ambulatory independent
-level of consciousness alert and interactive
-level of consciousness alert and interactive somewhat lethargic
-mental status clear and coherent
-the infant is being discharged home with her parents
-sternal pain managed with oral analgesics
-activity status bedbound
-ambulating with steady gait
-activity status ambulatory independent
-activity status ambulatory independent
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness alert and interactive
-rr 20 sats 95 on 2l
-mental status clear and coherent
-ambulating gait steady
-mental status clear and coherent
-vital signs stable
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Patient hemodynamically stable, afebrile, with O2 saturation > 95% on room air.
+Activity Status: Ambulatory - Independent.
+alert, oriented x3 pain controlled
+Good pain control, tolerating POs, no shortness of breath
+He was sent home in stable condition with amiodarone and metoprolol for control of AFib
+Mental Status:Clear and coherent
+Sternal - healing well, no erythema or drainage
+Mental Status: Clear and coherent.
+Leg Right/Left - healing well, no erythema or drainage.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness:Alert and interactive
+Stable with stable hematocrit and hemodynamics.
+The infant is being discharge in good condition.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Afebrile, hemodynamically stable, asymptomatic
+Mental Status: Clear and coherent.
+Minimal bifacial weakness
+Expired on at 6:28am.
+Leg Right/Left - healing well, no erythema or drainage.
+Ambulating with steady gait
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive somewhat lethargic.
+Mental Status:Clear and coherent
+The infant is being discharged home with her parents.
+Sternal pain managed with oral analgesics
+Activity Status: Bedbound.
+Ambulating with steady gait
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+RR 20, sats 95% on 2L
+Mental Status: Clear and coherent.
+Ambulating, gait steady
+Mental Status: Clear and coherent.
+Vital Signs Stable
 neurologically stable
-activity status ambulatory independent
-good stable on current dialysis schedule
-activity status ambulatory requires assistance or aid walker or cane
-mental status confused sometimes
-hemodynamically stable satting in mid 90s on 2l o2 by nc chronic aphasia with right sided hemiparesis
-vs stable
-ambulating with steady gait
-mental status clear and coherent
-level of consciousness alert and interactive
-a o x 3
-edema 1 lower extremity edema bilaterally
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-inr
-activity status ambulatory independent
-mental status clear and coherent
-activity status ambulatory independent
-ambulating with walker needs more assistance in am due to arthritis
-level of consciousness alert and interactive
-incisional pain managed with oral analgesics
-edema trace bilateral le
-alert and oriented x3 nonfocal
-with no complaints of shortness of breath or chest pain
-activity status ambulatory independent
-activity status ambulatory independent
-  good
-bp stable
-unfinished treatment of illness left ama
-alert and oriented x3 nonfocal
-patient ambulating breathing comfortably
-activity status out of bed with assistance to chair or wheelchair pt is independently ambulatory at baseline
-level of consciousness alert and interactive
-stable without chest pain
-mental status confused sometimes
-mental status clear and coherent
-afebrile vital signs stable asymptomatic
-activity status ambulatory independent
-level of consciousness alert and interactive
-no strenuous exercise or heavy lifting until follow up appointment
-level of consciousness lethargic but arousable
-mental status clear and coherent
-mental status clear and coherent
-patient expired
-activity status out of bed with assistance to chair or wheelchair
-leg left healing well no erythema or drainage
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-activity status bedbound
-neurologically stable
-activity status ambulatory requires assistance or aid walker or cane
-  patient expired at 7 am on
-mental status clear and coherent
-level of consciousness alert and interactive
-activity status out of bed with assistance to chair or wheelchair
-tolerating po
-ambulates independently
-ambulating well on room air
-activity status ambulatory independent
-level of consciousness alert and interactive
-  good
-level of consciousness lethargic but arousable
-mental status clear and coherent
-activity status ambulatory independent
-edema 1
-stable afebrile
-activity status ambulatory independent
-leg right left healing well no erythema or drainage
-alert and oriented x3 nonfocal
-activity status out of bed with assistance to chair or wheelchair
-afebrile stable
-activity status ambulatory independent
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-the patient s weight is 2455 gm
-level of consciousness alert and interactive
-the patient was alert and oriented times three
-neurologically is non responsive but does spontaneously open eyes
-leg right healing well no erythema or drainage
-level of consciousness alert and interactive
-alert and oriented x3 nonfocal
-level of consciousness alert and interactive
-activity status out of bed with assistance to chair or wheelchair
-mental status confused always
-mental status clear and coherent
-level of consciousness lethargic but arousable
-stable afebrile
-mental status clear and coherent
-respiratory status is stable on trach mask
-level of consciousness alert and interactive
-orthostatic hypotension resolved
-level of consciousness alert and interactive
-per his family returned to his mental status and physical baseline and so was discharged to home under their care
-incisional pain managed with percocet
-she was ambulating and had no complaints of pain
-level of consciousness alert and interactive
-mental status level of orientation varies however coherent
-sternal healing well no erythema or drainage
-mental status clear and coherent
-incisional pain managed with ultram
-activity status ambulatory independent
-alert and oriented x3 nonfocal gait unsteady deconditioned
-activity status out of bed with assistance to chair or wheelchair and some ambulation with assistance and walker
-level of consciousness alert and interactive
-ambulating with steady gait
-activity status ambulatory requires assistance or aid walker or cane
-activity status bedbound
-ambulating on room air
-ambulating with significant assistance
-activity status out of bed with assistance to chair or wheelchair
-activity status ambulatory independent
-cpap settings nasal cpap w psv bipap inspiratory pressure 16 cm h2o expiratory pressure 12 cm h2o supp o2 15 l min other setting wean fio2 to home settings 2 3lpm
-activity status bedbound
-level of consciousness alert and interactive
-mental status clear and coherent
-activity status ambulatory independent
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-neurologically stable
-mental status clear and coherent
-mental status confused sometimes
-mental status clear and coherent
-sternal healing well no erythema or drainage
-level of consciousness lethargic but arousable
-level of consciousness alert and interactive
-noted by neuro to have occular diplopia worse on distant gaze
-mental status clear and coherent
-neurologically stable
-  noted may still have residual mild dark stools if stools increase in dark tarry melanic type stools develop new worsening lightheadedness dizziness or daily
-mental status clear and coherent
-good vitals stable
-hemodynamically stable and afebrile
-mental status confused sometimes
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status clear and coherent
-activity status ambulatory independent
-mental status confused sometimes
-activity status ambulatory independent
-reflexes 2 toes downgoing
+Activity Status: Ambulatory - Independent.
+good, stable on current dialysis schedule
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Confused - sometimes.
+hemodynamically stable, satting in mid-90s on 2L O2 by NC, chronic aphasia with right-sided hemiparesis
+VS: stable
+Ambulating with steady gait
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+A+O x 3
+Edema 1+ lower extremity edema bilaterally
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Level of Consciousness: Alert and interactive.
+INR =
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Ambulating with walker, needs more assistance in am due to arthritis
+Level of Consciousness: Alert and interactive
+Incisional pain managed with oral analgesics
+Edema: trace bilateral LE
+Alert and oriented x3, nonfocal
+with no complaints of shortness of breath or chest pain.
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent
+- good
+BP stable
+unfinished treatment of illness, left AMA
+Alert and oriented x3 nonfocal
+Patient ambulating, breathing comfortably.
+Activity Status: Out of Bed with assistance to chair or wheelchair (pt is independently ambulatory at baseline).
+Level of Consciousness: Alert and interactive.
+Stable, without chest pain
+Mental Status: Confused - sometimes.
+Mental Status: Clear and coherent.
+Afebrile, vital signs stable, asymptomatic.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+No strenuous exercise or heavy lifting until follow up appointment
+Level of Consciousness: Lethargic but arousable.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Patient expired.
+Activity Status: Out of Bed with assistance to chair or wheelchair
+Leg Left - healing well, no erythema or drainage.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive
+Activity Status: Bedbound.
+Neurologically stable
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+*Patient expired at 7am on *
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Tolerating PO
+Ambulates independently
+Ambulating well on room air.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+- good
+Level of Consciousness: Lethargic but arousable.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Edema 1+
+stable, afebrile
+Activity Status: Ambulatory - Independent.
+Leg Right/Left - healing well, no erythema or drainage
+Alert and oriented x3 nonfocal
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Afebrile, Stable
+Activity Status: Ambulatory - Independent.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+The patient's weight is 2455 gm
+Level of Consciousness: Alert and interactive.
+The patient was alert and oriented times three
+Neurologically is non-responsive but does spontaneously open eyes
+Leg Right - healing well, no erythema or drainage.
+Level of Consciousness: Alert and interactive.
+Alert and oriented x3 nonfocal
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Mental Status: Confused - always
+Mental Status: Clear and coherent.
+Level of Consciousness: Lethargic but arousable.
+Stable, afebrile
+Mental Status: Clear and coherent.
+Respiratory status is stable on trach mask.
+Level of Consciousness: Alert and interactive.
+Orthostatic hypotension resolved.
+Level of Consciousness: Alert and interactive.
+Per his family, returned to his mental status and physical baseline and so was discharged to home under their care.
+Incisional pain managed with Percocet
+She was ambulating, and had no complaints of pain.
+Level of Consciousness: Alert and interactive.
+Mental Status: level of orientation varies however coherent.
+Sternal - healing well, no erythema or drainage
+Mental Status: Clear and coherent.
+Incisional pain managed with ultram
+Activity Status: Ambulatory - Independent.
+Alert and oriented x3 nonfocal gait unsteady, deconditioned
+Activity Status: Out of Bed with assistance to chair or wheelchair, and some ambulation with assistance and walker.
+Level of Consciousness: Alert and interactive.
+Ambulating with steady gait
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Activity Status: Bedbound.
+Ambulating on room air
+Ambulating with significant assistance
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Activity Status: Ambulatory - Independent.
+CPAP settings: Nasal CPAP w/PSV (BIPAP) Inspiratory pressure: 16 cm/h2o Expiratory pressure: 12 cm/h2o Supp O2: 15 L/min Other setting: wean Fio2 to home settings 2-3lpm.
+Activity Status: Bedbound.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Level of Consciousness: Alert and interactive.
+Neurologically stable
+Mental Status: Clear and coherent.
+Mental Status: Confused - sometimes.
+Mental Status: Clear and coherent.
+Sternal - healing well, no erythema or drainage
+Level of Consciousness: Lethargic but arousable
+Level of Consciousness: Alert and interactive.
+Noted by neuro to have: -occular diplopia worse on distant gaze
+Mental Status: Clear and coherent.
+Neurologically stable
+****Noted may still have residual mild dark stools - IF stools increase in dark/tarry (melanic-type) stools, develop new/worsening lightheadedness/dizziness OR daily
+Mental Status: Clear and coherent
+Good, vitals stable.
+Hemodynamically stable and afebrile
+Mental Status: Confused - sometimes
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent
+Activity Status: Ambulatory - Independent.
+Mental Status: Confused - sometimes.
+Activity Status: Ambulatory - Independent.
+Reflexes 2+, toes downgoing.
 stable but deconditioned
-level of consciousness alert and interactive
-edema 1 l le
-hemodynamically stable ambulating tolerating oral intake voiding without difficulty
-vac dressing in place left foot per plastics until flap procedure
-level of consciousness alert and interactive
-descision made to make patient comfort measures only
-hemodynamically stable pain adequately controlled
-level of consciousness alert and interactive
-mental status clear and coherent
-mental status clear and coherent
-level of consciousness alert and interactive
-vitals signs stable
-activity status ambulatory independent
-neurologically stable
-the patient is afebrile
-afebrile vital signs stable
-maintaining normal oxygen saturation on room air
-mental status clear and coherent
-activity status ambulatory independent
-leg left healing well no erythema or drainage
-level of consciousness alert and interactive
-activity status bedbound
-hematocrit and vital signs stable
-ambulating gait steady
-activity status ambulatory independent
-hemodynamically stable afebrile and ready for continued outpatient pt
-activity status ambulatory independent
-edema none
-the patient has choreathetoid movement of her right arm at times on discharge
-mental status clear and coherent
-mental status clear and coherent
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-mental status clear and coherent
-mild cognitive difficulties
-tolerating regular diet
+Level of Consciousness: Alert and interactive.
+Edema: 1+ (L)LE
+hemodynamically stable, ambulating, tolerating oral intake, voiding without difficulty
+Vac dressing in place left foot per plastics until flap procedure.
+Level of Consciousness: Alert and interactive.
+Descision made to make patient comfort measures only.
+Hemodynamically stable, pain adequately controlled
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive
+Vitals Signs Stable
+Activity Status: Ambulatory - Independent.
+Neurologically Stable
+The patient is afebrile
+Afebrile, vital signs stable.
+Maintaining normal oxygen saturation on room air.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Leg Left - healing well, no erythema or drainage.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound
+Hematocrit and vital signs stable.
+Ambulating, gait steady
+Activity Status: Ambulatory - Independent.
+Hemodynamically stable, afebrile and ready for continued outpatient PT
+Activity Status: Ambulatory - Independent.
+Edema :none
+The patient has choreathetoid movement of her right arm at times on discharge.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Mild cognitive difficulties.
+Tolerating regular diet.
 good neurologically stable
-ambulating with steady gait
-tolerating po diet
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-activity status ambulatory independent
-sternal pain managed with oral analgesics
-tolerating a regular diet pain well controlled
-ambulating with steady gait
-incisional pain managed with percocet
-mental status clear and coherent
-activity status ambulatory independent
-ambulating gait steady
-incisional pain managed with oral analgesics
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-fall risk
-level of consciousness alert and interactive
-motor r pronator drift mild clumsiness of r hand
-activity status out of bed with assistance to chair or wheelchair
-stable with o2 sats in mid 90 s on 4l nc
-level of consciousness alert and interactive
-incisions right chest left chest edema
-level of consciousness alert and interactive
-level of consciousness alert and interactive
+Ambulating with steady gait
+Tolerating PO diet.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Sternal pain managed with oral analgesics
+Tolerating a regular diet pain well controlled.
+Ambulating with steady gait
+Incisional pain managed with percocet
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Ambulating, gait steady
+Incisional pain managed with oral analgesics
+Level of Consciousness: Alert and interactive.
+Level of Consciousness:Alert and interactive
+Fall risk
+Level of Consciousness: Alert and interactive.
+Motor: R pronator drift, mild clumsiness of R hand.
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Stable with O2 sats in mid 90's on 4L NC.
+Level of Consciousness: Alert and interactive.
+Incisions: right chest...... left chest ............ edema ..........
+Level of Consciousness: Alert and interactive.
+Level of Consciousness:Alert and interactive
 neurologically stable
-level of consciousness alert and interactive
-hemodynamically stable intermittently requiring 2l of oxygen by nasal canula occasionally with chest pain or dyspnea responsive to morphine currently afebrile
-you are walking with a walker eating and breathing on your home oxygen requirement of 3l
-activity status ambulatory independent
-level of consciousness alert and interactive
-mental status clear and coherent
-respiratory failure
-tolerating a low fat regular diet
-neurologically stable
-stable but poor prognosis
-activity status ambulatory independent
-ambulating with steady gait
-mental status clear and coherent
-activity status ambulatory independent
-mental status clear and coherent
-mental status clear and coherent
-leg right left healing well no erythema or drainage
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-quite somnolant but arousable for brief periods of time at which point she is able to interact appropriately
-level of consciousness alert and interactive
-patient at baseline function with right sided hemiparesis and expressive aphasia
-alert and oriented x3 nonfocal
-alert and oriented x3 nonfocal
-mental status confused sometimes
-heart rrr with no murmur
-insight judgement fair fair
-mental status confused sometimes
-activity status ambulatory independent
-incisional pain managed with oral analgesics
-mental status clear and coherent
-level of consciousness alert and interactive
-asymptomatic afebrile and hemodynamically stable
-level of consciousness alert and interactive
-mental status clear and coherent
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status clear and coherent
-chest pain free
+Level of Consciousness: Alert and interactive.
+Hemodynamically stable, intermittently requiring 2L of oxygen by nasal canula, occasionally with chest pain or dyspnea responsive to morphine, currently afebrile.
+You are walking with a walker, eating, and breathing on your home oxygen requirement of 3L.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Mental Status:Clear and coherent
+Respiratory Failure
+Tolerating a low fat regular diet
+Neurologically stable
+Stable, but poor prognosis
+Activity Status: Ambulatory - Independent
+Ambulating with steady gait
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Leg Right/Left - healing well, no erythema or drainage.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Quite somnolant but arousable for brief periods of time, at which point she is able to interact appropriately
+Level of Consciousness: Alert and interactive.
+Patient at baseline function with right sided hemiparesis and expressive aphasia.
+Alert and oriented x3 nonfocal
+Alert and oriented x3 nonfocal
+Mental Status: Confused - sometimes.
+Heart: RRR with no murmur.
+Insight/judgement - fair/fair.
+Mental Status: Confused - sometimes.
+Activity Status: Ambulatory - Independent.
+Incisional pain managed with oral analgesics
+Mental Status:Clear and coherent
+Level of Consciousness: Alert and interactive.
+Asymptomatic, afebrile, and hemodynamically stable.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Chest pain free
 patient expired
-level of consciousness alert and interactive
-the patient was seen by physical
-activity status ambulatory independent
-activity status ambulatory independent
-mental status clear and coherent
-activity status ambulatory independent
-alert and oriented x3 nonfocal
-level of consciousness alert and interactive
-sternal pain managed with oral analgesics
-level of consciousness alert and interactive
-good vital signs stable afebrile chest pain free
-level of consciousness alert and interactive
-activity status ambulatory independent
-bipap o2 in low mid 90s on nasal cannula at rest
-alert and oriented x3 nonfocal
-incisional pain managed with
-mental status confused sometimes
-tolerating a regular diet poor appetite
-mental status clear and coherent
-mental status clear and coherent
-mental status confused sometimes
-the patient is discharged in stable condition
-ambulating with steady gait
-patient expired
-mild l nlf normal bulk and tone
-patient expired
-activity status ambulatory requires assistance or aid walker or cane
-activity status bedbound
-sternal healing well no erythema or drainage
-on 2l oxygen
-activity status ambulatory independent
-level of consciousness alert and interactive
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-level of consciousness alert and interactive
-level of consciousness lethargic but arousable
-level of consciousness alert and interactive
-mental status clear and coherent
-sternal healing well no erythema or drainage
-activity status ambulatory independent
-alert and oriented x 3
-level of consciousness alert and interactive
-mental status clear and coherent
-afebrile vital signs stable pain free hematocrit stable asymptomatic
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-mental status clear and coherent
-level of consciousness alert and interactive
-patient satting well on room air and therapeutic on her coumadin
-stable can count to 28 in one breath on the day of discharge which has been her baseline
-mental status confused sometimes
-slightly confused
-alert and oriented x3 nonfocal
-sternal incision healing well no erythema or drainage 1 le edema
-activity status out of bed with assistance to chair or wheelchair
-stable alert and oriented completely
-activity status ambulatory requires assistance or aid walker or cane
-mental status clear and coherent
-patient becoming more oriented daily
-level of consciousness alert and interactive
-activity status ambulatory requires assistance or aid walker or cane
-activity status ambulatory independent
-edema 1
-ambulating with steady gait
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-mental status confused always
-level of consciousness alert and interactive
-it was explained that it was unsafe for him to leave
-level of consciousness alert and interactive
-mental status clear and coherent
-activity status ambulatory independent
-stable tachypneic with rr 30 40 normotensive left sided weakness and dysarthria
-drowsy but arousable to voice
-alert and oriented x3 nonfocal
-mental status confused sometimes
-good afebrile stable respiratory status tolerating food
-cardiovascular regular rate and rhythm without rub or murmur
-alert and oriented x3 nonfocal
-sensation intact to all modalities
-level of consciousness alert and interactive
-mental status clear and coherent
-leg right warm with erythema no drainage 2 le edema
-patient deceased
-activity status ambulatory independent
-he has been treated with antibiotics for his resolving lung infection transfused for his anemia and given a new regimen of
-mental status clear and coherent
-sternal pain managed with percocet prn
-activity status out of bed with assistance to chair or wheelchair
-level of consciousness alert and interactive
-sternal healing well no erythema or drainage
-neurologically stable
-mental status confused sometimes
-stable ambulating with assistance
-ambulating with steady gait
-mental status clear and coherent
-stable on vancomycin iv for osteomyelitis
-activity status ambulatory independent
-discharged inn no fevers
-level of consciousness alert and interactive
-activity status ambulatory independent
-afebrile vital signs stable and wnl tolerating po ambulating
-mental status clear and coherent
-activity status ambulatory independent
-level of consciousness lethargic but arousable
-level of consciousness alert and interactive
-alert and oriented x3 nonfocal
-activity status ambulatory independent
-level of consciousness alert and interactive
-patient s pulmonary status at baseline and being treated for infection
-level of consciousness alert and interactive
-level of consciousness alert and interactive
-edema none
-activity status ambulatory independent
-at the time of discharge the patient s neurological examination was notable for symmetric hyporeflexia in all four limbs
-edema 2
-mental status clear and coherent
-level of consciousness alert and interactive
-mental status clear and coherent
-mental status confused sometimes
-alert and oriented x3 nonfocal
-feeling well tolerating po abdominal pain improved
-sternal healing well no erythema or drainage
-neurologically stable
-mental status clear and coherent
-mental status clear and coherent
-mental status clear and coherent
-mental status clear and coherent
-stable oxygenating well on pressure support
-adequate pain control with oral medication
-neurologically stable
-motor moves right ue and rle full left occasional antigravity but does not consistently move very often allows arm to drop will withdraw slightly to noxious stimulation neglects limb both legs antigraity but not consistently withdraws to pain withdraws at all 4 ext
-level of consciousness alert and interactive
-stable afebrile normotensive sugars under control
-mental status clear and coherent
-activity status ambulatory independent
-sternal healing well no erythema or drainage
-ambulating with steady gait
-activity status ambulatory independent
-hemodynamically stable and afrebile
-sternal incision healing well no erythema or drainage
-neuro deficits mild disc blurring of l eye but otherwise completely normal exam including normal gait
-discharged on 2 liter home oxygen per prior outpatient use
-mental status confused sometimes
-level of consciousness alert and interactive
-alert and oriented x3 nonfocal
-activity status ambulatory independent
-telephone number
-stable baseline oxygenation status
-level of consciousness alert and interactive
-sternal healing well no erythema or drainage
-a o x3
-trach collar
-level of consciousness alert and interactive
-mental status clear and coherent
-mental status clear and coherent
-stable tolerating regular diet afebrile w labs stable
-activity status out of bed with assistance to chair or wheelchair
-sternal healing well no erythema or drainage
-activity status ambulatory requires assistance or aid walker or cane
-hemodynamically stable tolerating a regular diet pain adequate controlled
-mental status confused sometimes
-russian speaking nearly deaf per family mildly confused
-mental status clear and coherent
-mental status clear and coherent
-good mild pleuritic chest pain ambulating stable heart rate and blood pressure
-mental status clear and coherent
-good tolerating pos hct stable
-mental status clear and coherent
-activity status ambulatory requires assistance or aid walker or cane
-mental status clear and coherent
+Level of Consciousness: Alert and interactive.
+The patient was seen by Physical
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - Independent.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Alert and oriented x3 nonfocal
+Level of Consciousness: Alert and interactive.
+Sternal pain managed with oral analgesics
+Level of Consciousness: Alert and interactive.
+Good, vital signs stable, afebrile, chest pain free
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+BIPAP, O2 in low-mid 90s on nasal cannula at rest
+Alert and oriented x3, nonfocal
+Incisional pain managed with
+Mental Status: Confused - sometimes.
+Tolerating a Regular diet, poor appetite
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Mental Status: Confused - sometimes.
+The patient is discharged in stable condition.
+Ambulating with steady gait
+Patient expired;
+Mild L NLF. Normal bulk and tone
+Patient expired
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Activity Status: Bedbound.
+Sternal - healing well, no erythema or drainage
+on 2L oxygen
+Activity Status: Ambulatory - Independent
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Lethargic but arousable.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Sternal - healing well, no erythema or drainage
+Activity Status: Ambulatory - Independent.
+Alert and oriented x 3
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+afebrile, vital signs stable, pain free, hematocrit stable, asymptomatic.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Patient satting well on room air and therapeutic on her Coumadin.
+Stable; can count to 28 in one breath on the day of discharge, which has been her baseline.
+Mental Status: Confused - sometimes.
+Slightly confused.
+Alert and oriented x3 nonfocal
+Sternal Incision - healing well, no erythema or drainage 1+ LE Edema
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Stable, alert and oriented completely.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Clear and coherent.
+Patient becoming more oriented daily.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Activity Status: Ambulatory - Independent.
+Edema: 1+
+Ambulating with steady gait
+Level of Consciousness:Alert and interactive
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+It was explained that it was unsafe for him to leave
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent
+Activity Status: Ambulatory - Independent.
+stable, tachypneic with RR 30-40, normotensive, left sided weakness and dysarthria
+Drowsy but arousable to voice
+Alert and oriented x3 nonfocal
+Mental Status: Confused - sometimes.
+Good, afebrile, stable respiratory status, tolerating food
+Cardiovascular regular rate and rhythm without rub or murmur
+Alert and oriented x3 nonfocal
+Sensation intact to all modalities
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Leg Right - warm with erythema, no drainage 2+ LE edema
+Patient deceased
+Activity Status: Ambulatory - Independent.
+He has been treated with antibiotics for his resolving lung infection, transfused for his anemia and given a new regimen of
+Mental Status:Clear and coherent
+Sternal pain managed with percocet prn
+Activity Status: Out of Bed with assistance to chair or wheelchair.
+Level of Consciousness: Alert and interactive.
+Sternal - healing well, no erythema or drainage
+Neurologically stable
+Mental Status: Confused - sometimes.
+stable, ambulating with assistance
+Ambulating with steady gait
+Mental Status: Clear and coherent.
+Stable on Vancomycin IV for osteomyelitis.
+Activity Status: Ambulatory - Independent.
+Discharged INN no fevers
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+Afebrile, vital signs stable and wnl, tolerating PO, ambulating,
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Lethargic but arousable.
+Level of Consciousness: Alert and interactive.
+Alert and oriented x3 nonfocal
+Activity Status: Ambulatory - Independent.
+Level of Consciousness:Alert and interactive
+Patient's pulmonary status at baseline and being treated for infection
+Level of Consciousness: Alert and interactive.
+Level of Consciousness: Alert and interactive.
+Edema- none
+Activity Status: Ambulatory - Independent.
+At the time of discharge, the patient's neurological examination was notable for symmetric hyporeflexia in all four limbs.
+Edema 2+
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Mental Status: Confused - sometimes.
+Alert and oriented x3 nonfocal
+feeling well, tolerating PO, abdominal pain improved
+Sternal - healing well, no erythema or drainage
+Neurologically stable
+Mental Status: Clear and coherent.
+Mental status: clear and coherent
+Mental Status:Clear and coherent
+Mental Status: Clear and coherent.
+stable, oxygenating well on pressure support
+Adequate pain control with oral medication
+Neurologically stable
+Motor: moves right UE and RLE full, left occasional antigravity but does not consistently move, very often allows arm to drop, will withdraw slightly to noxious stimulation, neglects limb, both legs antigraity but not consistently, withdraws to pain : withdraws at all 4 ext
+Level of Consciousness: Alert and interactive.
+Stable, afebrile, normotensive, sugars under control.
+Mental Status: Clear and coherent.
+Activity Status :Ambulatory - Independent
+Sternal - healing well, no erythema or drainage
+Ambulating with steady gait
+Activity Status: Ambulatory - Independent.
+Hemodynamically stable and afrebile.
+Sternal Incision - healing well, no erythema or drainage
+Neuro deficits: Mild disc blurring of L eye but otherwise completely normal exam including normal gait.
+Discharged on 2 liter home oxygen (per prior outpatient use)
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Alert and oriented x3 nonfocal
+Activity Status: Ambulatory - Independent.
+Telephone number .
+Stable, baseline oxygenation status
+Level of Consciousness: Alert and interactive.
+Sternal - healing well, no erythema or drainage
+A&O x3.
+Trach collar
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+stable - tolerating regular diet, afebrile w/ labs stable
+Activity Status:Out of Bed with assistance to chair or wheelchair
+Sternal - healing well, no erythema or drainage
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Hemodynamically stable, tolerating a regular diet, pain adequate controlled.
+Mental Status: Confused - sometimes.
+Russian speaking, nearly deaf; per family, mildly confused.
+Mental Status: Clear and coherent.
+Mental Status: Clear and coherent.
+Good - mild pleuritic chest pain, ambulating, stable heart rate and blood pressure.
+Mental Status: Clear and coherent.
+good, tolerating POs, Hct stable
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+Mental Status: Clear and coherent.

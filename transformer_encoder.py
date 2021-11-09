@@ -6,7 +6,7 @@ import math
 # Positional Encoding Module
 class PositionalEncoding(nn.Module):
     """
-    Return input matrix with positional encoding
+    Return input matrix with added positional encoding
     Replicated from "Attention Is All You Need"
 
     Input Shape:
@@ -275,7 +275,7 @@ class Encoder(nn.Module):
         eps (float): epsilon to avoid zero in denominator, default 1e-6
     Output Shape:
         output: (batch_size, len, dim)
-        attentions: (num_layers, batch_size, n_head, len, len)
+        attentions: (n_layers, batch_size, n_head, len, len)
     """
 
     def __init__(self, 
@@ -312,8 +312,4 @@ class Encoder(nn.Module):
             attentions.append(attention)
 
         return output, attentions
-
-
-
-
-
+    
