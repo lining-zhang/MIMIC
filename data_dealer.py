@@ -172,3 +172,4 @@ def mask_tokens(inputs, mask_prob, pad_token_id, mask_token_id, vsize):
 
     # The rest of the time (10% of the time) we keep the masked input tokens unchanged
     return inputs, labels
+

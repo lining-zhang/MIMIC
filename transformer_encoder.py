@@ -312,4 +312,3 @@ class Encoder(nn.Module):
             attentions.append(attention)
 
         return output, attentions
-    

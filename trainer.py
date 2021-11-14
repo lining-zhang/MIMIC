@@ -60,7 +60,7 @@ class Trainer(object):
         return model
 
     def train(self, model):
-        optimizer = optim.Adam(model.parameters(), lr=self.config["learning_rate"], betas=self.config["betas"])
+        optimizer = optim.Adam(model.parameters(), lr=self.config["learning_rate"])
 
         model.train()
         for epoch in range(self.config["num_epoch"]):
@@ -91,8 +91,11 @@ class Trainer(object):
                 optimizer.step()
                 losses += loss.item()
 
+                if iteration == 2000:
+                    print("Training Loss: %.8f" % (loss.item()))
+
             avg_loss = losses / len(self.dataloader["train"])
-            print("Epoch %d \tAvg Train Loss %.3f" % (epoch, avg_loss))
+            print("Epoch %d \tAvg Train Loss: %.8f" % (epoch, avg_loss))
 
             torch.save(model.state_dict(),
                        os.path.join(self.config["model_path"], 'transformer_encoder_epoch{}.pt'.format(epoch)))
@@ -150,5 +153,4 @@ class Transformer_Encoder_Model(nn.Module):
         x, attentions = self.encoder(token_indices)
         x = self.projection(x)
         return x, attentions
-
 
